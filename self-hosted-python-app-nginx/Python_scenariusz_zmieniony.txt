@@ -1,0 +1,1265 @@
+Python
+Python jest dynamicznie-typowanym językiem programowania ogólnego przeznaczenia. Wczesny rozwój Pythona rozpoczął się w instytucie badawczym w Holandii. Oryginalną motywacją było stworzenie języka wyższego poziomu, aby wypełnić lukę między językiem C a powłoką, jak twierdzi autor, stworzenie narzędzi do administrowania systemem za pomocą C w tamtym czasie było dość skomplikowane. Składnia języka została również zainspirowana przez kilka języków, takich jak Algol68, Pascal i ABC, i miała być czytelna i czysta. Nazwa języka nie pochodzi od zwierzęcia lecz od serialu komediowego emitowanego w latach siedemdziesiątych przez BBC - 'Monty Python’s Flying Circus' (Latający cyrk Monty Pythona). Projektant, będąc fanem serialu i poszukując nazwy krótkiej, unikalnej i nieco tajemniczej, uznał tę za świetną.
+
+
+Google
+Jedna z najpopularniejszych wyszukiwarek na świecie została zbudowana przy użyciu Pythona.  Python pozwala Google na zmianę ruchu i określenie wymagań wyszukiwania.
+
+
+Youtube
+Python jest siłą napędową YouTube, strony internetowej używanej przez miliony do pobierania i wysyłania filmów nagranych w dowolnej i rozmiarze. Witryna została zakodowana w sposób ułatwiający interakcje z użytkownikiem.
+
+
+Instagram
+przesyłanie i udostępnianie zdjęć nigdy nie było tak ekscytujące.
+Instagram zrewolucjonizował sposób udostępniania zdjęć i filmów. Popularna witryna do udostępniania zdjęć również w dużej mierze opiera się na Pythonie, jeśli chodzi o wiele jej funkcji, w tym usługę udostępniania wideo.
+
+
+Spotify
+przesyłaj strumieniowo niezliczone utwory i teledyski dzięki Spotify. Ta popularna strona została również stworzona przy użyciu Pythona. Spotify koncentruje się na szybkości, a Python bardzo dobrze uzupełnia ten sposób myślenia.
+
+
+Netflix
+Zespół programistów Netflixa korzysta z wielu bibliotek statystycznych i matematycznych w języku Python, w tym NumPy, SciPy, ruptures i Pandas, które pomagają analizować tysiące sygnałów po ostrzeżeniu.
+Python został również wykorzystany do opracowania systemu korelacji szeregów czasowych, a także rozproszonego systemu roboczego w celu zrównoleglenia dużych obciążeń analitycznych.
+Co więcej, Python jest również zwykle używany do zadań automatyzacji, eksploracji i czyszczenia danych oraz wizualizacji.
+
+
+Instalacja
+W tym celu musimy udać się na stronę główną języka, a mianowicie wpisujemy w wyszukiwarce Python. Klikamy w odnośnik do strony www.python.org. Będąc na stronie głównej projektu klikamy w zakładkę Downloads, i z tabelki poniżej wybieramy interesującą nas wersję Pythona , jeżeli np. chcemy pobrać jego starszą wersję. Jednak na potrzeby naszego kursu,  klikamy w duży żółty przycisk z napisem 'Download Python 3.7.4', ponieważ jest to najnowsza wersja języka. Po kliknięciu w przycisk, plik z programem zacznie się automatycznie pobierać. Gdy pobieranie zostanie ukończone, klikamy w plik exe., a następnie przycisk 'Uruchom', w następnym okienku klikamy przycisk 'Install Now'. Podczas instalacji należy zwrócić uwagę na wybranie opcji 'Add Python 3.7.4 to Path', co umożliwi uruchamianie skryptów w wierszu poleceń z dowolnej lokalizacji. Warto zaznaczyć opcję 'Install for all users', wówczas środowisko Pythona będzie dostępne dla wszystkich użytkowników na danym komputerze. Zmieni się również miejsce instalacji na dysku. Po naciśnięciu, Python zacznie się instalować na naszym komputerze.
+
+
+Acrobat PDF
+Język opisu strony oparty na PostScripcie, opracowany przez firmę Adobe. Jego zaletą jest niezależność od platformy sprzętowej (np. dokument PDF można oglądać, wydrukować na dowolnej drukarce lub przesłać do naświetlarni itp.), jest także potężnym językiem programowania do opisu strony. 
+
+ActiveX
+Produkt firmy Microsoft udostępniający moduły oprogramowania innym aplikacjom.
+
+ADL (ang. Advanced Distributed Learning)
+Organizacja powołana przez Departament Obrony Stanów Zjednoczonych odpowiedzialna za opracowanie i rozwój standardu SCORM. 
+
+Administrator (supervisor)
+Osoba zajmująca się zabezpieczeniem sprawnego działania sieci lokalnej. Osoba nadzorująca i odpowiadająca za poprawną pracę powierzonego jej sprzętu sieciowego, sprawująca kontrolę nad dostępem użytkowników. 
+
+Adres domenowy 
+Adres symboliczny skonstruowany w celu ułatwienia użytkownikom komputerów komunikacji w Internecie. Obsługą adresów domenowych zajmuje się Domain Name Service (DNS). Nazwa symboliczna składa się z kilku członów oddzielonych od siebie kropkami i ma strukturę symboliczną. Najbardziej ogólny człon umieszczany jest po prawej stronie i z reguły jest dwuliterowym skrótem państwa (np. pl - Polska, w przypadku braku tego członu mamy do czynienia z adresem sieci położonej na terenie USA). Kolejny człon znajdujący się na lewo od nazwy kraju oznacza rodzaj organizacji, do której dany komputer należy, lub nazwę miasta, na przykład: 
+
+com - instytucje i organizacje komercyjne, firmy prywatne, 
+edu - instytucje naukowe i akademickie, 
+gov - instytucje rządowe, administracja państwowa, 
+mil - instytucje wojskowe, 
+net - instytucje lub urządzenia związane z obsługą sieci, 
+org - organizacje nie należące do żadnej z powyższych klas, 
+int - organizacje międzynarodowe. 
+Kolejny człon w nazwie domeny może identyfikować nazwę organizacji, firmy bądź uczelni. Ostatnio organizacja Internet Society ogłosiła, że zezwala na korzystanie z siedmiu nowych nazw domen. Wprowadzone nowe nazwy domen to: 
+
+web - dla wszystkich, którzy chcą w sieci wykazywać aktywność związaną z WWW, 
+info - dla wszelkiego rodzaju serwisów informacyjnych, 
+firm - dla serwerów konkretnych firm, 
+store - dla firm, które prowadzą działalność handlową, 
+arts - dla prowadzenia w sieci działalności artystycznej i związanej z rozrywką, 
+rec - dla rekreacji i rozrywki, 
+nom - do użytku prywatnych osób dla ich własnych stron. 
+
+Adres IP (Adres internetowy)
+Unikalny 32-bitowy adres w sieci Internet. Format adresu to cztery jednobajtowe (8 bitowe) liczby oddzielone kropkami, np. 148.81.83.98.  Niepowtarzalny dla każdego użytkownika adres, pod którym można pobrać informację (np. WWW), lub pod który można przesłać pocztę elektroniczną. Adresy pocztowe składają się z nazwy użytkownika, symbolu @ (ang. at) i nazwy domeny komputera, na którym znajduje się konto. Adres internetowy dla poczty elektronicznej ma następującą strukturę: identyfikatorużytkownika@nazwakomputera.nazwadomeny.kraj 
+Np.: ala@ma.kota.pl jest przykładowym adresem internetowym. 
+
+Adsrewer (ang. advertising server) 
+Rozwiązanie wspomagające dostarczanie właściwych reklam do określonych odbiorców. Dostarcza danych o internautach: jaką tematyką się interesowali, ile czasu spędzili na poszczególnych stronach. Umożliwia reklamowy billing. Każda odsłona banneru na danej stronie jest rejestrowana, można więc zleceniodawcy przedstawić szczegółowy raport na temat oglądalności jego reklam.
+
+Alias 
+Krótka nazwa (np. adresu poczty elektronicznej) zastępująca rzeczywistą - o wiele dłuższą i trudniejszą do zapamiętania. Zastępcza nazwa obiektu . Na przykład w niektórych programach pocztowych użytkownik o nazwie username100 może występować pod swoim pełnym imieniem i nazwiskiem w nazwie skrzynki pocztowej (zamiast spacji zwykle używana jest wówczas kropka albo łącznik): Imię.Nazwisko. Wprawdzie serwer nie zna takiego użytkownika ('zna' jedynie użytkownika username100), jednak program pocztowy przyporządkowuje aliasowi Imię.Nazwisko nazwę username100 i dzięki temu kieruje list do właściwej skrzynki. 
+Alias oznacza także zmianę znaczenia polecenia. Np. w środowisku Linux typowym przykładem użycia aliasu jest zmodyfikowanie polecenia ls (w pliku .bashrc_profile) poprzez dodanie opcji tak, aby wyświetlane nazwy i atrybuty plików były zróżnicowane kolorystycznie, zależnie od typu plików: alias ls="ls =al --color" 
+
+AltaVista (http://altavista.dogital.com, http://altavista.telia.com)
+Najsłynniejsza i chyba najlepsza obecnie wyszukiwarka w Internecie. Oferuje bardzo rozbudowane mechanizmy przeszukujące Globalną Sieć Komputerową, dzięki którym z ponad 32 milionów witryn WWW można łatwo odnaleźć poszukiwaną informację. Uruchomiona europejska AltaVista (http://altavista.telia.com/) w wersji wielojęzycznej - uwzględnia język polski. 
+
+Animacja 
+Stosowany na stronach WWW zabieg wyświetlania kolejnych stadiów ruchu zapisanych np. w formacie GIF. W wypadku zauważonego spowalnienia procesu wyświetlania strony można animację wyłączyć (w przeglądarce Netscape poleceniem Edit>Preferences...>Stop Animation). 
+
+ANSI 
+American National Standards Institute. ANSI oznacza również zestaw znaków wprowadzonych w 1985 r., głównie ze względu na potrzeby środowiska graficznego Windows 1.0. W odróżnieniu od klasycznego zestawu ASCII użyto tutaj 8 bitów do kodowania znaków. Zestaw znany jest także jako Latin 1. 
+
+Anonymous 
+Identyfikator przeznaczony dla użytkowników nie mających indywidualnych kont, umożliwiający im logowanie się na zdalnych komputerach. 
+
+Anonymous FTP 
+Konwencja umożliwiająca logowanie się na serwerze bez indywidualnego konta. Jako identyfikator użytkownika należy podać anonymous, a jako hasło swój adres pocztowy. Umożliwia to dostęp do publicznie oferowanych plików. 
+
+Aplikacja 
+Program użytkowy. Małe programy w środowisku Windows czasem nazywa się miniaplikacjami lub akcesoriami. Aplikacje16-bitowe uruchamiane mogą być zarówno w środowisku 16-bitowym (np. WfW3.11) jak i 32-bitowym (np. Windows 95). 
+
+Applet 
+Krótki program, stanowiący część dokumentu internetowego. Pojęcie applet jest odnoszone w Internecie do małych programów (skryptów) napisanych za pomocą języka programowania Java, firmy Sun. Applet wykonuje jakieś zadanie, np. pozwala wyświetlać animację. Applety Javy są interpretowane (akceptowane) przez przeglądarki Netscape Navigator 2.0 i Microsoft Internet Explorer 3.0 i nowsze wersje
+
+Archie 
+Sieć baz danych zawierających listy wszystkich plików dostępnych w internecie poprzez anonimowego ftp. Aby odnaleźć żądany plik trzeba podłączyć się do tzw. archie serwera i zadać pytanie o plik.
+
+Archiwacja danych
+Metoda przechowywania ważnych danych na nośnikach o dużej pojemności. 
+
+ASCII 
+(American Standard Code for Information Interchange )- standard kodowania liter, cyfr, znaków interpunkcyjnych, znaków semigraficznycha także np. operacji takich jak powrót karetki. ASCII używa dokodowania 7 bitów, t.j. może łącznie opisać 128 różnych stanów. ASCII jest podzbiorem 8-bitowego kodu ANSI (American National Standard Institute), niekiedy nazywanego także 'rozszerzonym ASCII'. W Europie modyfikacje zestawu ASCII oznaczane są akronimem ISO (International Standards Organization ), np. ISO-8859-2. 
+Pomimo dominacji środowiska graficznego część plików w Internecie nadal dostępna jest w formacie ASCII (oprócz tekstów źródłowych są to także pliki typu readme; ASCII wciąż pozostaje lingua franca Internetu), dzięki czemu można je bezpośrednio edytować przy użyciu najprostszych narzędzi. Tekst bywa często uzupełniany umownymi zestawami znaków ('buźkami'-emoticons) przejętymi z wczesnych stadiów rozwoju korespondencji sieciowej: 
+:-) uśmiech (spotykany także w uproszczonej wersji: :) ) 
+:-D śmiech 
+;-) mrugnięcie 
+:-/ dezaprobata 
+:-o zdziwienie 
+>:( gniew 
+:'-( płacz 
+:-p pokazanie języka 
+
+ASP  
+Microsoft Active Server Pages - środowisko aplikacyjne pozwalające łączyć języki/narzędzia (m.in. Hypertext Markup Language (HTML), Extensible Markup Language (XML), Component Object Model (COM)) w celu tworzenia elementów dynamicznych stron webowych, takich jak skrypty generujące pliki HTML na serwerze web -owym i przesyłające je do przeglądarki. Skrypty te mogą przywoływać inne programy do wykonania zadań takich jak udostępnienie bazy danych, wykonują więc zadania tradycyjnie realizowane przez skrypty cgi. Zwykle podkreślana przewaga ASP polega na zoptymalizowaniu kodu ze względu na wielodostęp i wielowątkowość. Można powiedzieć, że skrypt ASP to dokument html z dodatkowymi wstawkami kodu, napisanymi np. w języku VBScript i ograniczonymi specjalnymi znacznikami, zwykle w formie: <% .....%>. VBScript jest tu językiem domyślnym, można jednak używać także języków: Java, JavaScript, JScript (ten ostatni jest implementacją JavaScript dokonaną przez Microsoft ) i innych. Zewnętrznie skrypty ASP różnią się od zwykłych plików HTML użyciem rozszerzenia .asp. Technika ASP została opracowana przez Microsoft i zastosowana w serwerze IIS ver. 3.0 i 4.0, znanym z Windows NT i Windows 2000, a także w serwerze Personal Web Server(PWS) dla Windows 95/98. Przykład użycia ASP do wyświetlenia tabeli przygotowanej w MS Access. 
+Skrót ASP oznacza także 'usługowe' udostępnianie aplikacji w sieci - Application Service Providing. 
+
+Asynchroniczny
+Niejednoczesny, nie zachodzący w tym samym czasie
+
+@ 
+'at' (por. łac. ad czyli do), jeden z symboli Internetu, nazywany często 'małpką' lub 'małpą'. Nawiasem mówiąc akurat tego lokalnego odpowiednika 'at' nie ma w zestawieniu określeń używanych w różnych językach (Karen Chung, Tajwan): myszka, trąba słonia (także: ucho słonia), małpi ogon, robak/larwa, kocia stopa, ucho, bułka z cynamonem, strudel, stuknięte 'a'. 
+
+ATM - (Asynchronous Transfer Mode) 
+System przesyłania danych. Jest to asynchroniczna, szerokopasmowa technika komunikacyjna, służąca do przesyłania usług multimedialnych (głosu, dźwięku, obrazu i danych). 
+
+Autoresponder
+Specjalny program umożliwiający generowanie automatycznych odpowiedzi w zależności od przychodzącej korespondencji, filtrowanie jest realizowane na podstawie różnych kryteriów np. adresu przychodzącego, czasu, daty, tytułu, itp.
+
+Autostrada informacyjna, Infoway
+Termin stosowany do opisu możliwej infrastruktury informacyjnej wykorzystującej kable optyczne lub koncentryczne, dzięki którym rozszerzane są możliwości systemu. (Termin ten nie ma żadnego odpowiednika w rzeczywistym świecie).
+
+Awatar
+Postać, która reprezentuje uczestnika w trójwymiarowym świecie wirtualnym
+
+Bajt 
+Jednostka informacji. W większości systemów komputerowych na bajt składa się osiem bitów.
+
+Ban 
+Założony na kanale uniemożliwia osobie, która go dostała ponowne wejście na tenże kanał. Z łatwością go można otrzymać za niestosowne zachowanie oraz brak kultury. Ban nadawany jest przez opa danego kanału na określony czas np. 2 godziny.
+
+Baud
+Jednostka transmisji sygnałów cyfrowych, równa jeden lub kilka bitów na sekundę. 
+
+BBS
+Jest to system informacyjny, obsługiwany przez jedną lub kilka osób o wspólnych zainteresowaniach (często lokalny), dający możliwość (poprzez modemy) wymiany informacji tekstowej, plikowej itp. Operator BBS-u prowadzi rejestracje użytkowników, ustala tematykę i zasady korzystania z informacji itd. Niektóre usługi BBS-u są bezpłatne. 
+
+Bit
+Najmniejsza jednostka informacji w uproszczeniu oznaczająca, że coś jest (1) lub nie ma (0)
+
+Bookmark
+zapisany adres strony WWW czasem pojawia się nazwa Ulubione (miejsce)
+
+Bot
+Jest to program, który wykonuje automatycznie wiele akcji na kanale, pod dyktando uprawnionych osób. Jest ułatwieniem dla opów (np. sam opuje znajomych, wyrzuca za flood czy niestosowne zachowanie na kanale). Istnieją również boty wojenne, ale zazwyczaj botki pilnują kanałów. Niestety na IRCu (przynajmniej teoretycznie) nie są dozwolone, gdyż IRC JEST DLA LUDZI A NIE BOTÓW. 
+
+Bps
+Dosłownie: bity na sekundę. Miara ilości bitów, które są przesyłane w ciągu sekundy przez linię. Współczesne modemy osiągają szybkość 33 600 bps (czyli 33,6 kbps), są jednak linie które pozwalają przesyłać dane z szybkością kilku Mbps (czyli milionów bps). 
+
+Bramka
+Program lub komputer, który nadzoruje ruch pomiędzy dwiema sieciami, Internetem oraz siecią lokalną, jak również między dwoma dowolnymi mediami.
+
+Business-to-business
+Kontakty handlowe między firmami i tworzenie sieci handlowych o różnym zasięgu - od lokalnego, poprzez regionalny, do globalnego. Rynek przeznaczony przede wszystkim dla producentów, importerów i eksporterów, hurtowników i dystrybutorów. Miejscem dokonywania transakcji jest wydzielona część Internetu, zwana Intranetem Gospodarczym.
+
+Business-to-consumers
+Kontakty handlowe pomiędzy firmami, a konsumentem. Polem działania jest otwarta sieć Internetu o swobodnym dostępie dla wszystkich uczestników. Domeną działu jest sprzedaż detaliczna.
+
+Cache 
+Specjalny katalog w przeglądarce WWW, gromadzący grafikę wczytywaną w trakcie przeglądania zasobów sieci. Gdy po raz kolejny sięgamy do tej samej strony, przeglądarka wczytuje na ekran grafikę z cache'a, a nie z Internetu, co znacznie przyspiesza wczytanie całej strony. Im większy cache, tym większa możliwość magazynowania grafiki. Optymalna wielkość powinna sięgać 10-15 megabajtów.
+
+Chat zob. czat
+
+CD-R
+Urządzenie do zapisu danych lub programów np. multimedialnych na płycie CD. 
+
+CD-ROM 
+Technika dysków kompaktowych z nagranymi zasobami np. multimedialnymi, które można tylko czytać. 
+
+Cello 
+Nazwa jednej z przeglądarek WWW, przeznaczonej dla środowiska MS Windows. 
+
+CGI
+Standard interfejsu pozwalający na uruchamianie z poziomu strony WWW programów zainstalowanych przez administratora serwera WWW. 
+
+Client 
+Jest to program, który prosi serwer o wykonanie pewnej czynności. 
+
+Client-server 
+Model klient-serwer - metoda współdzielenia komputerów i zasobów sieciowych przez scentralizowanie pewnych funkcji na serwerze i udostępnianie klientom pewnych informacji za pomocą tych funkcji
+
+Cookie
+Krótki wpis tekstowy przechowywany na komputerze użytkownika określający jego upodobania dotyczące serwera lub witryny WWW, która dokonała zapisu.
+
+Crack
+Niewielki programik usuwający zabezpieczania przed nieuprawnionym użytkownikiem innego, komercyjnego programu.
+
+Computer - conferencing 
+Prowadzenie konferencji z wykorzystaniem multimedialnej komunikacji między grupami użytkowników za pomocą komputerów. 
+
+Computer - Mediated Communication
+Obejmuje czynniki organizacyjne, techniczne, pedagogiczne, socjologiczne i ekonomiczne między dwoma dowolnie oddalonymi osobami, uczestniczącymi w procesie nauczania na odległość. Poczta elektroniczna i komputerowe systemy konferencyjne stanowią części składowe systemów CMC. Stosowane jest również określenie on-line education dla nauczania realizowanego w czasie rzeczywistym, gdy nadawca i odbiorca są połączeni na bieżąco. 
+
+Cyberprzestrzeń
+Termin ukuty przez Williama Gibsona, pisarza sf, oznaczający wirtualny świat, który istnieje dzięki połączeniu komputerów, sieci telekomunikacyjnych i rozmaitych urządzeń cyfrowych
+
+Czasopisma multimedialne 
+Czasopisma znajdujące się w sieci Internet, które oprócz standardowego tekstu zawierają multimedialne wstawki. 
+
+Chat
+Narzędzie pozwalające na komunikację tekstową pomiędzy grupą użytkowników systemu zdalnego kształcenia. Wykorzystywane w szkoleniu synchronicznym, bądź asynchronicznym. 
+
+Datagram 
+Wiadomość wysyłana z jednego komputera do innego, bez gwarancji doręczenia. 
+
+Debugging 
+Dosł. odpluskwianie - tak nazywa się proces wyszukiwania i poprawiania błędów (pluskiew) w kodzie programu . W praktyce zadanie to wykonują programy nazywane debuggerami . 
+
+daemon
+Program 'czuwający' na serwerze, zwykleUNIX-owym; demonami nazywa się też programy wykonujące zadania w tle (np.cron ). 
+
+DHCP 
+Dynamic Host Configuration Protocol 
+
+DHTML 
+Dynamic HTML - technologia uzupełniająca strony sieciowe o walor 'dynamiki' (interaktywności), włączająca kilka innych technik. Ponieważ dotyczy klienta, jest szybsza od tradycyjnej techniki cgi angażującej serwer zwiększającej obciążenie sieci. Strona dynamiczna może reagować zmianą wyglądu na działania użytkownika, takie jak klikanie w wyróżnionych obszarach. Aby uzyskać efekty dynamiczne, zwykle osadza się w dokumentach html kod JavaScript (w przypadku IE może to być także VBS) i/lub używa przeglądarek nowszych wersji (mówi się niekiedy o czwartej generacji przeglądarek, ale nikt zdaje się nie wie, co to miałoby oznaczać, oprócz tego, że znane są wersje 4 a także późniejsze, dwu najbardziej rozpowszechnionych przeglądarek internetowych - Netscape i Internet Explorer ) z wbudowanymi narzędziami umożliwiającymi zmianę wyglądu strony już po załadowaniu dokumentu. Ideałem DHTML jest stan '3A' - możliwość dokonywania wszelkich zmian w każdym miejscu i w dowolnej chwili (anything anywhere anytime). Niestety zastosowane techniki dynamizacji dokonywanej poprzez wprowadzenie nowych znaczników HTML (np. <LAYER>, <ILAYER> w Netscape) bądź poszerzenie listy atrybutów znaczników istniejących (Internet Explorer) są 'niewymienialne' (por. samouczek DHTML). Zresztą nawet w nowej wersji 6.0 przeglądarki NS zastosowano całkowicie odmienną technologię niż w poza tym bardzo podobnej przeglądarce NS 4.x. Za to na szczęście powszechnie (choć nie w 100%) akceptowana jest przez przeglądarki technologia CSS pozwalająca na uzyskiwanie podobnych efektów. 
+
+Dial-up
+Najtańsza i najprostsza metoda korzystania z sieci Internet. Dostęp do Internetu przy pomocy domowego komputera, modemu i zwykłej linii telefonicznej, możliwość korzystania z poczty elektronicznej oraz umieszczenia w Internecie prywatnych stron WWW.
+
+Dialer 
+Program, którego zadaniem jest połączenie twego komputera z dostawcą usług internetowych
+
+Distance learning 
+Uczenie się na odległość z wykorzystaniem metod korespondencyjnych, tele- i wideokonferencji, sieci komputerowych, radia i telewizji. Pojęcie dotyczy ujęcia zagadnienia od strony ucznia. 
+
+Distance teaching 
+Nauczanie na odległość z wykorzystaniem metod korespondencyjnych tele- i wideokonferencji, sieci komputerowych, radia i telewizji. Pojęcie dotyczy ujęcia zagadnienia od strony nauczyciela. 
+
+Distance education 
+Zastępuje często stosowane zamiennie pojęcia distance learning i distance teaching jednym określeniem. 
+
+DNS
+System nazewnictwa domen w sieci Internet. Pozwala nadawać komputerom nazwy zrozumiałe dla człowieka i tłumaczy je na numery IP. Serwer DNS to komputer gromadzący i tłumaczący nazwy literowe komputerów w danej sieci na numery IP.
+
+Domena 
+Nazwa podsieci, czyli też część nazwy adresu e-mail. Niektóre domeny posiadają poddomeny. Np. domeną jest .pl, .ch, .su, itp. Poddomena to np. .edu, .gov, .mil. Przykładowy adres składa się z nazwy użytkownika i domeny z poddomenami, np. weber@complex.com.pl. Inaczej domena to grupa komputerów w sieci, której nazwa zwykle zależy od kraju lub typu sieci. DNS organizuje grupy komputerów w Internecie zgodnie z hierarchią domen. Zob. adres domenowy
+
+Dostawca usług internetowych 
+może być przedstawiony jako firma umożliwiająca przesyłanie danych na duże odległości. Przykładową listę dostawców internetowych można znaleźć w sieci WWW pod adresem http://katalog.wp.pl/www/Biznes_i_Ekonomia/Firmy_Podzial_wg_Branz/Internet/
+Dostawcy_Internetu/ [21.01.2002] lub http://www.wsp.krakow.pl/providers/providers.html [16.12.1999].
+
+Download 
+Inaczej ściąganie z sieci Internet. Proces polegający na kopiowaniu na twardy dysk plików z Globalnej Sieci Komputerowej. 
+
+DVD digital Video Disc
+Cyfrowy dysk wizyjny o dużej gęstości zapisu. 
+
+Dzielenie aplikacji 
+Pozwala nauczycielowi na podgląd ekranu i ingerencję w pracę studenta
+
+EARN
+Rozległa sieć łącząca europejskie ośrodki akademickie. 
+
+E-biznes 
+- zyskujące na znaczeniu wykorzystywanie Internetu w działalności gospodarczej. Obejmuje marketing, sprzedaż, serwis, zawieranie kontraktów, przesyłanie dokumentów, prowadzenie telekonferencji, pozyskiwanie nowych kontaktów, wyszukiwanie informacji, itp.
+
+EDI
+Elektroniczne przesyłanie dokumentów według standardu EDIFACT, zawierającego następujące usługi, związane z bezpieczeństwem: poufność, niezaprzeczalność odbioru, niezaprzeczalność nadania, integralność wiadomości, uwierzytelnienie, integralność sekwencji wiadomości. 
+
+Edukacja niestacjonarna 
+Tak się określa wszystkie formy kształcenia nie będące kształceniem stacjonarnym tj. kształceniem tradycyjnym w stałym kontakcie nauczyciela z uczniem w instytucji edukacyjnej (szkole, uniwersytecie).
+
+Edukacja on-line
+Proces dydaktyczny prowadzony na odległość z zachowaniem bezpośredniego kontaktu uczestników procesu dydaktycznego. Charakteryzuje się następującymi atrybutami: dwustronna komunikacja, niezależna od miejsca i czasu, komunikacja wielostanowiskowa, interakcja. 
+
+Edukacja stacjonarna
+Tradycyjny sposób nauczania. 
+
+Edytor HTML 
+Program służący do tworzenia dokumentów internetowych w standardzie HTML. Chociaż jest możliwe zbudowanie dokumentu internetowego za pomocą każdego, nawet najprostszego edytora tekstów, edytory HTML są tworzone, aby przyspieszać i automatyzować proces konstruowania stron WWW, uwalniając użytkownika od ręcznego wprowadzania poleceń HTML. Większość edytorów pracuje w trybie "tekstowym", wyświetlając wszystkie znaki sterujące (polecenia) HTML, niektóre pozwalają tworzyć dokumenty w trybie "graficznym", masując kody języka, a stosowane są też edytory pozwalające wprowadzać poszczególne elementy w sposób całkowicie zautomatyzowany, za pomocą zestawiania "klocków".
+
+E-handel
+- systemy elektronicznej sprzedaży przez Internet, ze szczególnym uwzględnieniem WWW. Najczęściej spotykaną formą e-commerce są sklepy internetowe, w których klienci mogą wygodnie wyszukiwać, oglądać i kupować artykuły posługując się wirtualnym koszykiem i dokonując zapłaty kartą kredytową.
+
+Ekstranet 
+To dwie (lub więcej) sieci korporacyjne wykorzystujące technologię internetową, połączone w taki sposób, by możliwa była efektywna współpraca między nimi. Każda taka sieć to sieć lokalna firmy - LAN lub jej Intranet.
+
+E-mail
+Poczta elektroniczna to usługa pozwalająca na przesyłanie w internecie listów i załączników do listów w postaci plików. Każdy list musi być zaadresowany wg. schematu nazwa_użytkownika@adres_maszyny. Przykładowo użytkownik Jacek Kowalski posiadający konto o nazwie kowal w firmie Complex Computers S.A. mógłby mieć adres: esliw@zetobi.com.pl gdzie kowal to nazwa konta, complex.com.pl to nazwa domeny dostawcy Internetu. Do czytania i pisania listów służą programy obsługi poczty np. Internet Mail w pakiecie MS Internet Explorer 3.0 lub wbudowany moduł w Netscape Navigatorze 3.0 GOLD. Poza tekstami można przesyłać pocztą elektroniczną także pliki binarne odpowiednio przetworzone na format tekstowy. Konwersję zapewniają w/w programy pocztowe - wystarczy jedynie załączyć do wiadomości wybrane pliki z komputera lokalnego. Skrzynka pocztowa (ang. mailbox) Plik w którym są przechowywane wszystkie otrzymane, kopie wysyłanych, jeszcze nie wysłane oraz usunięte listy. Przesyłki pocztowe których odbiór nie został w pełni potwierdzony są umieszczane w specjalnym katalogu i po ponownym połączeniu się danego użytkownika z daną skrytką pocztową - nieodebrane wiadomości są ponownie transmitowane, aż do pełnego i potwierdzonego odbioru. Jeżeli masz w swojej skrytce pocztowej zbyt duży plik (pliki), którego z różnych przyczyn nie możesz odebrać przez połączenie modemowe - musisz zgłosić się do administratora systemu celem jego usunięcia. Dopiero wtedy system zakończy próby jego przesłania.
+
+Emoticon
+(Minka, buźka, uśmieszek) - używana w komunikacji w różnych aplikacjach Internetu (poczta elektroniczna, Mirc, irc, icq) za pomocą tekstu. Kompozycja kilku znaków przekazująca w sposób symboliczny stan emocjonalny osoby piszącej np. :)
+
+ERP
+Zintegrowane informatyczne systemy zarządzania zasobami firmy. Służą do przekazywania aktualnego obrazu całego przedsiębiorstwa kadrze zarządzającej.
+
+Ethernet 
+Często spotykana metoda łączenia komputerów w sieciach lokalnych, zapewniająca prędkość transmisji 10Mbs. Także nazwa ramki, np. ramki Ethernet_802.2 w sieci pracownianej (chodzi o Pracownię Informatyczną 2), o minimalnym rozmiarze 64b, maksymalnym - 1518b. Gdy używamy NETX.COM lub VLM.EXE, wówczas typy ramek wymienione są w pliku NET.CFG. System ODI (Open Data-Link Interface) pozwala na współpracę z wieloma protokołami i typami ramek przy użyciu tej samej karty sieciowej. Ethernet_802.2 jest domyślnym typem ramki dla NetWare 4.1. Aby sprawdzić, jakie protokoły są przyłączone do ramek, należy z konsoli serwera wydać polecenie CONFIG. 
+Tzw. szybki Ethernet (fastEthernet ) jest standardem dla szybkich (100Mbs) lokalnych połączeń przy użyciu skrętki telefonicznej. Znany też jako 100 BaseT. Cienki Ethernet (thin Ethernet albocheapernet) jest rozpowszechnionym standardem dla sieci lokalnych (przewód o długości do 200m, transmisja 10Mbs w topologii magistrali). Do kart sieciowych kabel doprowadzany jest poprzez trójnik i gniazdko BNC. Nazywany także 10Base2. Gruby Ethernet (thick Ethernet )- standard dla sieci lokalnych (długość do 500m, 10Mbps ,topologia magistrali). Do kart sieciowych doprowadzany przez 15-wtykowe złącze AUI. Nazywany także 10Base5. Innym standardem Ethernetu dla sieci lokalnych jest 10BaseT (skrętka 10Mbps w topologii gwiazdy, t.j. z użyciem koncentratora - huba). 
+
+Eudora 
+Popularne oprogramowanie poczty elektronicznej dostępne na platformach Windows. Wersja shareware Eudory jest dostępna na wielu serwerach FTP. 
+
+E-zine
+- prasa ukazująca się jedynie w wersji elektronicznej w Internecie i nie mająca swojej wersji w druku (papierowej), często dystrybuowana do czytelników poprzez e-mail.
+
+Fax
+Urządzenie służące do przesyłania obrazów graficznych za pomocą łączy telefonicznych. 
+
+FAQ
+Frequently Asked Questions - czyli odpowiedzi na najczęściej zadawane pytania. FAQ są często spotykane na stronach, gdzie proponowany jest jakiś program lub usługa internetowa. 
+
+FDDI
+Interfejs stosowany w sieciach światłowodowych przy prędkości przesyłania wynoszącej 100 Mbps. 
+
+Finger
+Usługa pozwalająca stwierdzić, kto w danej chwili jest zalogowany na danym serwerze. lub zebrać informacje o użytkowniku danego serwera. Przykładowo: finger @ia.pw.edu.pl podaje listę, zalogowanych na serwerze o tym adresie, użytkowników. Natomiast finger chris@ia.pw.edu.pl, podaje informacje o użytkowniku chris na serwerze ia.pw.edu.pl. UWAGA: niektóre serwery nie zezwalają na korzystanie z tej usługi.
+
+Firewall 
+zabezpieczenia typu "zapora ogniowa" nie pozwalają one niepożądanym danym na wejście do sieci ani na opuszczenie jej. Oprogramowanie to określa, jakie dane są autoryzowane. Zazwyczaj jest ono umieszczone na routerach lub serwerach dedykowanych.
+
+Flash 
+Standard grafiki wektorowej i animacji w sieci. Wyposażony w język skryptowy ActionScript. Wyniki pracy programu udostępniane są po zainstalowaniu plug-in, dzięki czemu Flash jest właściwie niewrażliwy na typ przeglądarki. Do nauki dostępny jest m.in. bardzo dobry trzyczęściowy tutorial (Timeline, Animation, Symbols) w formie kilkuminutowych video oraz szczegółowy opis Macromedia Flash 
+
+Flash 
+Flash, czyli inaczej mówiąc program (menu) zapisany w pamięci telefonu. Każdy Flash ma swoją wersję. W Siemensach jest następujące oznaczenie: XXYY (gdzie XX oznacza wersję Flasha, a YY oznacza wersję językową). Jeśli dwie ostatnie cyfry (YY) są 04 - oznacza to, że język będzie polski. Różne wersje flasha posiadają trochę inne funkcje (im wyższy numer tym więcej funkcji powinno zawierać menu), także można zauważyć poprawki (dotyczące wyglądu).
+
+Flood 
+Wstukanie z klawiatury i wypuszczenie na ekran dużej ilości powtarzającego się tekstu, co powoduje ogólny bałagan na kanale i ekranach innych użytkowników. Jest na Ircu bezwzględnie tępiony. 
+
+Formularz
+Dokument internetowy, który pozwala czytelnikowi strony w interakcyjny sposób pobierać lub przesyłać informacje. Przykładem formularza może być ankieta prowadzona przez autora strony, który zbiera od czytelników informacje pewnego typu (np. wiek, płeć, wykonywany zawód, posiadany sprzęt itp.). Formularzem jest strona Ankieta w niniejszym kursie, która zawiera pola wyboru i pola tekstowe.
+
+Forum
+Narzędzie do umieszczania informacji tekstowych związanych z danym szkoleniem, możliwość śledzenia przebiegu wymiany informacji według schematu tematycznego (tzw. wątek czyli pytanie wraz z odpowiedziami) 
+
+Forward
+Przesyłanie listu do kolejnego adresata (readresowanie ). W żargonie - forwardowanie. 
+
+Frame 
+Ramka; termin oznaczający m.in. porcję informacji przesyłanej w niektórych warstwach protokołów sieciowych, a także znacznik HTML pozwalający dzielić ekran na częściowo niezależne obszary. W językach obiektowo zorientowanych, takich jak JavaScript, ramka jest obiektem podobnym do okna, odpowiada "podoknu" tworzonemu przez znacznik FRAME w dokumencie FRAMESET. 
+
+Freeware
+Bezpłatne oprogramowanie. Można je wykorzystywać i kopiować bez żadnych opłat, zachowując prawa autorskie. Zob. też Public domain i Shareware. 
+
+FTP
+Protokół transmisji plików. Zazwyczaj usługa ftp służy do kopiowania plików z odległej maszyny do lokalnej lub odwrotnie. Działa na zasadzie klient-serwer i przeważnie z usługi korzystamy przy użyciu interaktywnej aplikacji. Zapewnia ochronę przy użyciu haseł dostępu. Anonimowy FTP pozwala na skorzystanie z ogromnych zasobów sieciowych rozmieszczonych na serwerach na całym świecie. Do takiego serwera można się zalogować używając klienta ftp, na konto użytkownika Anonymous, jako hasło podając swój adres E-mail. Dla użytkowników Windows 95 polecam rewelacyjny program ws-ftp32.
+
+Gateway
+Układ elektroniczny lub program, który umożliwia połączenie dwóch różnych sieci. 
+
+GIF
+Wygodny format do przechowywania i dystrybucji obrazków o określonej wewnętrznej kompresji. Powszechnie stosowany do okraszania stron WWW w postaci małych, nieskomplikowanych elementów graficznych. 
+
+Gopher 
+System oparty o menu wspomagający poszukiwanie informacji w internecie. Jest to poprzednik WWW, gdyż w chwili obecnej wszelkie możliwości gophera zostały wbudowane w przeglądarki WWW. Z hostami typu gopher można się bez problemów łączyć klientem WWW i czytać je analogicznie do klienta gopher.
+
+GPRS 
+Operatorzy sieci komórkowych wprowadzili nową usługę w ramach istniejącego już systemu GSM. Chodzi o GPRS (General Packet Radio Services) - pakietową transmisję danych, dzięki której posiadacze "komórek" będą mogli np. przesyłać pliki ze stosunkowo dużą szybkością.
+
+Grupy dyskusyjne
+Internetowe środowiska wymiany wiadomości i poglądów, podzielone wg hierarchii tematycznych i tworzące sieć zwaną Usenetem.Jest to wyodrębnione formalnie miejsce w którym można wymieniać z innymi osobami informacje i poglądy na określone tematy, zdefiniowane przez zawartość grupy dyskusyjnej. Grupą dyskusyjną nazywamy także osoby uczestniczące w tej wymianie, które dokonały subskrypcji. 
+
+Grafika bitmapowa
+Rysunki bitmapowe składają się z wielu maleńkich elementów - pikseli. Jakość rysunku nie ulega pogorszeniu, jeśli oglądamy go w naturalnej wielkości lub niewielkim powiększeniu. Jeśli zaczniemy stosować zbyt duże powiększenia, rysunek przestaje być wyraźny, a od pewnego momentu zaczynają być widoczne piksele.  
+
+Grafika wektorowa
+Rysunek wykonany w formacie grafiki wektorowej, niezależnie od stopnia skomplikowania, każdy jego element jest zapisywany w postaci równań matematycznych. Ma to kapitalne znaczenie przy zmianie skali powiększenia lub pomniejszenia - gładkie linie pozostają liniami.  
+
+Grupa dyskusyjna 
+Jest to wyodrębnione formalnie miejsce w którym można wymieniać z innymi osobami informacje i poglądy na określone tematy, zdefiniowane przez zawartość grupy dyskusyjnej. Grupą dyskusyjną nazywamy także osoby uczestniczące w tej wymianie, które dokonały subskrypcji. 
+
+GSM
+System GSM /Global System for Mobile Communications/ jest jednym z systemów telefonii ruchomej. Podobnie jak w innych systemach telefonii komórkowej, połączenie można uzyskać znajdując się w obszarze zasięgu stacji bazowej zwanym komórką. Łączny obszar komórek zapewnia pokrycie większego terytorium. System pozwala realizować jednocześnie wiele połączeń przy wykorzystaniu stosunkowo małej liczby kanałów radiowych.
+
+Guest 
+Gość, alternatywnie do anonymous, hasło logowania się obcego użytkownika w usługach telnet. 
+
+GUI 
+Graphical User Interface - graficzny interfejs użytkownika - standardowy obecnie sposób komunikowania sią użytkownika z komputerem, odwzorowujący na ekranie monitora środowisko skądinąd znane użytkownikowi - np. biurko z dokumentami i urządzeniami takimi jak drukarka, fax, telefon, itp. Poczynając od pojawienia się, charakterystycznymi składnikami GUI (jednym z pierwszych był interfejs Apple Macintosh; obecnie najbardziej znanym przykładem jest interfejs MS Windows) są okna i ikony. Ważną zaletą GUI jest wspomniane metaforyczne odwoływanie się do obiektów znanych z życia codziennego, takich jak okno (window), pulpit lub biurko (desktop), uchwyt(handle), technika ciągnij - upuść (drag&drop), itp. GUI w praktyce zastąpił stosowany dawniej interfejs znakowy, a rolę klawiatury przejęła mysz lub inny wskaźnik. Prawdopodobnie GUI będzie stopniowo wzbogacany o narzędzia głosowe, video i virtual reality. 
+
+Haker
+Doświadczony programista, włamywacz grasujący w sieciach komputerowych. 
+
+Hasło
+Ciąg znaków znanych posiadaczowi konta, służący do jego autoryzacji przy wchodzeniu do systemu. Znajomość hasła jest niezbędna, aby odpowiedzieć na pytanie o nie np. przy procedurze logowania się do systemu lub odbioru poczty
+
+Hipermedia
+Dokument zawierający wszystko w jednym (tekst, obraz ruchomy, dźwięk, zdjęcia) itp.
+
+Hipertekst
+System połączeń między dokumentami, pozwalający za pomocą kliknięcia myszką na zaznaczonym obszarze przenosić się w inne miejsce dokumentu lub w ogóle do innego dokumentu.
+
+Home page 
+Dokument WWW wyświetlany jako pierwszy po połączeniu się pod żądany adres. Także: własna strona użytkownika, strona macierzysta.
+
+Host 
+Maszyna w sieci posiadająca własny adres IP, nazwę i należąca do domeny. Często także: komputer podłączony do bezpośrednio do Internetu, pozwalający świadczyć usługi internetowe klientom.
+
+Hosting serwerów
+To fizyczne dołączenie serwera klienta do sieci. Urządzenie klienta uzyskuje bezpośredni dostęp do sieci szkieletowej, co gwarantuję bardzo szybki dostęp "do" i "z" Internetu, a także korzysta z dostępnej infrastruktury - szafa, zasilanie, zasilanie awaryjne, klimatyzacja, okablowanie. Możliwość zdalnej administracji oraz dostępu terminalowego 24h/dobę.
+
+HTML HyperText MarkUp Language
+Język hipertekstowy używany do tworzenia dokumentów używanych przez WWW. Polecenia tekstowe pozwalają na realizację tzw. linków (odsyłaczy), wyświetlanie różnych fontów, grafiki itp. itd. Obowiązującym standardem jest HTML 2, natomiast w trakcie dyskusji znajduje się standard HTML 3, powszechnie jednak używany i coraz częściej interpretowany przez przeglądarki WWW. Służy do kodowania krojów czcionek tekstu, grafiki, multimediów i formatu oraz odnośników hipertekstowych.
+
+
+HTTP
+Jeden z protokołów internetowych, używany do transferu stron WWW
+Jest protokołem umożliwiającym przeglądarkom sieciowym uzyskiwanie dostępu do plików na dowolnym serwerze WWW.
+
+
+HTTPS 
+Stosowany wówczas, gdy serwer używa Secure Socket Layer (SSL). 
+
+
+Hyper 
+Nielinearny, rozgałęzia się w wielu kierunkach. Termin występujący i samodzielnie, i jako przedrostek
+
+
+Hypertext 
+Tekst włączający odnośniki (hiperlinki ) do określonych miejsc tego samego dokumentu, lub do innych dokumentów, będący w tym znaczeniu rozszerzeniem możliwości tradycyjnego tekstu. O ile tekst tradycyjny odczytujemy przede wszystkim liniowo, o tyle hipertekst zwykle narzuca skojarzeniowy (asocjacyjny) sposób odczytu. 
+
+
+Image map
+Rysunek mapa - kliknięcie go powoduje otworzenie strony o innym adresie, przy czym adres wybierany jest w zależności od kliknięcia
+
+
+Images
+Wszelkiego rodzaju obrazki umieszczone np. na stronach WWW. (Bywa i tak, że całe strony są zapisane w formatach obrazków - mają najczęściej rozszerzenia .gif, .jpg.
+
+
+Infostrada
+Pojęcia tego używa się do określenia istniejących lub przyszłych szerokopasmowych autostrad telekomunikacyjnych, przenoszących zarówno dane, jak i usługi multimedialne. 
+
+
+Interfejs 
+Specyfikacja procesu komunikowania się. Interfejsem nazywa się też realizację sprzętową a także oprogramowanie pośredniczące pomiędzy człowiekiem i aplikacjami (programami użytkowymi). W tym wypadku interfejs (albo powłoka-shell, taka jak command.com, explorer, Bourne shell -bash i in.) tworzy obraz komputera widziany przez użytkownika; typowe elementy tego obrazu w przypadku interfejsu graficznego GUI to okna, menu, ikony, wskaźnik myszy, etc. 
+
+
+Internauta
+Pierwszy raz tego określenia użył bibliotekarz z Nowego Jorku, Jean Armour Polly, na konferencji dotyczącej komputerów, wolności i prywatności, wiosną 1992 r. Niedługo później Vint Cerf, jeden z twórców Internetu i przewodniczący Internet Society, zwrócił się w ten sposób do członków tej organizacji. Od tego czasu przyjęto, że internauta to ten, kto podróżuje po bezkresnym oceanie Internetu. 
+
+
+Internet 
+Ogólnoświatowa sieć komputerowa, łącząca większość podłączonych do jakiejkolwiek sieci komputerów. Skupia tysiące sieci lokalnych, setki miejskich, miliony komputerów i użytkowników w krajach na wszystkich kontynentach, wykorzystując rozmaite nośniki informacji - linie telefoniczne, łącza satelitarne, linie radiowe, światłowody, skrętki itp. W sieci udostępnione są ogromne zasoby do których między innymi należą spisy literatury, kopie obrazów, treści książek, utwory muzyczne, informacje na dowolne tematy itp. itd. Poza tym możliwe jest porozumiewanie się pomiędzy użytkownikami za pomocą poczty elektronicznej oraz programów typu IRC. Dostęp do sieci uzyskuje się poprzez lokalną sieć komputerową, linię dzierżawioną lub łącząc się modemem do lokalnego usługodawcy internetowego (ang. Internet Provider), który oferuje dostęp do całej reszty świata w Internecie.
+
+
+Internet Service Provider (usługodawca dostępu do Internetu) 
+Jest to działalność rozwijająca się od lat 80. w państwach Europy Zachodniej i Stanach Zjednoczonych. Usługodawca pełni rolę pośrednika pomiędzy siecią szkieletową Internetu (lub metropolitalną), a końcowym użytkownikiem. Łączy silny komputer (serwer) łączem dzierżawionym z Internetem, ustawia pewną liczbę modemów, uruchamia odpowiednie oprogramowanie i może świadczyć usługi dostępu do Internetu. Wymaga to dysponowania odpowiednią wiedzą techniczną i zasobami finansowymi, zależnymi od planowanej bazy klientów oraz zakładanego poziomu oferowanych usług. W Polsce firm aktywnie działających na tym rynku jest już kilkadziesiąt, ale są one nierównomiernie rozmieszczone na terenie kraju. Większość z nich ma niewielu klientów, najwięksi usługodawcy znaczną część swoich dochodów czerpią z podłączenia firm i instytucji łączami stałymi. 
+
+
+Internet Society 
+Organizacja działająca w dziedzinie sieci komputerowych o następujących celach działania: 
+popieranie techniczne rozwoju Internetu jako badawczej i edukacyjnej infrastruktury oraz stymulowanie udziału ośrodków akademickich, naukowych i innych dla rozwoju Internetu, edukowanie w/w ośrodków w kwestiach technik użycia i zastosowania Internetu, promowanie naukowych i edukacyjnych zastosowań Internetu w różnych instytucjach edukacyjnych dla wszystkich poziomów wykształcenia, 
+udostępnianie forum do eksploracji nowych zastosowań Internetu i wykształcenie związków między różnymi organizacjami używającymi Internetu. 
+
+
+Intranet 
+jest wewnętrzną, wydzieloną siecią firmy, opartą na rozwiązaniach Internetu. Dostęp do zasobów Intranetu jest możliwy tylko z określonych punktów sieci. Najczęściej zasoby intranetowe są separowane od zasobów światowych przez tzw. ściany ogniowe (firewall).
+
+
+Intranet Gospodarczy 
+Wydzielone z Internetu publicznego sieci handlowe o chronionym dostępie, kodowanej transmisji danych, cyfrowych certyfikatach autoryzacji nadawcy uniemożliwiających anonimowe rozsyłanie informacji.
+
+
+IP
+Podstawowy protokół transmisji danych, zapewniający przesyłanie informacji pomiędzy sieciami. IP realizuje tzw. datagramowy model komunikacji, polegający na podziale całkowitej informacji na części zwane datagramami, zawierające w nagłówku między innymi adres nadawcy i adres docelowy. 
+
+
+IRC
+Program typu klient-serwer, dzięki któremu osoby z dowolnego miejsca na świecie mogą porozmawiać w czasie rzeczywistym ze sobą. W tym celu łączą się z tzw. IRC Serwerem i dołączają do kanału na którym chcą dyskutować. Możliwe jest również przesyłanie plików pomiędzy rozmówcami.
+
+
+Ircop
+Operator serwera IRC, człowiek, który dba o prawidłowe działanie serwera. 
+
+
+ISDN (Integrated Services Digital Network - Zintegrowany Pakiet Usług Sieciowych) 
+ISDN - zintegrowana sieć cyfrowa, łącząca usługi telefoniczne, przesyłania danych, telemetrii, sygnalizacji i inne. Następca zwykłej analogowej telefonii, umożliwia jednoczesne prowadzenie rozmów i przesyłanie danych z prędkością 128 kbps. Usługi w sieci ISDN można podzielić na: 
+usługi przenoszenia, określające sposób transmisji sygnałów cyfrowych między użytkownikami, 
+teleusługi, zawierają oprócz usług takich jak: telefonia cyfrowa, teleteks, telefaks, wideoteks, wideofonię, telewizję, (multimedialną) pocztę elektroniczną, transmisję danych, również sposoby sterowania urządzeniami końcowymi, 
+usługi teleakcji, są to nowe usługi sieci ISDN, zawierające: telealarm, telealert, telekomendę oraz telemetrię.
+
+
+JAR
+Java Archive - format stosowany m.in.w JDK. Rozszerzenie .jar pochodzi, podobnie jak w przypadku unixowych plików .tar, od archive (por. .war) 
+
+
+Java 
+Obiektowy język programowania opracowany na bazie C++ przez Sun Microsystems. Pozwala programować niezależne aplikacje uruchamiane z poziomu stron WWW, albo współpracujące z programami CGI. Kompilowany jest na kod pośredni, który może być interpretowany przez przeglądarkę, niezależnie od platformy systemowej. Technologia Javy daje możliwość opracowywania miniaplikacji, zwanych appletami i rozsyłania ich w sieci w celu wykonywania określonych funkcji w określonym miejscu. Te miniaplikacje mogą być umieszczane na stronach WWW, jako wstawki do języka HTML. Informacje o języku programowania Java można znaleźć pod adresem http://java.sun.com/. Obiektowy język programowania opracowany na bazie C++ przez Sun Microsystems. Pozwala programować niezależne aplikacje uruchamiane z poziomu stron WWW, albo współpracujące z programami CGI. Kompilowany jest na kod pośredni, który może być interpretowany przez przeglądarkę, niezależnie od platformy systemowej. Technologia Javy daje możliwość opracowywania miniaplikacji, zwanych appletami i rozsyłania ich w sieci w celu wykonywania określonych funkcji w określonym miejscu. Te miniaplikacje mogą być umieszczane na stronach WWW, jako wstawki do języka HTML. Informacje o języku programowania Java można znaleźć pod adresem http://java.sun.com/.  
+
+
+Java API 
+Oprogramowanie tworzące API zostało pogrupowane w biblioteki nazywane pakietami. 
+Java nie przenosi wirusów i nie może uszkodzić komputera-klienta (o ile wiadomo). Dokumenty html udostępniają miniaplikacje Javy za pośrednictwem znacznika < APPLET>(OBJECT). Kod Javy ma rozszerzenie .java, np. test.java. Po skompilowaniu przy użyciu kompilatora o nazwie javac (wydajemy w tym celu polecenie: javac test.java) otrzymujemy klasę test.class. Wywołanie programu java.exe z nazwą klasy jako "parametrem": javatest pozwala wykonać program test . Java jest także środowiskiem przetwarzania online, działającym w tzw. maszynie wirtualnej Javy - JVM (Java Virtual Machine) . Ta ostatnia jest rodzajem pośrednika pomiędzy programem Javy i komputerem. Kompilator Javy tworzy bowiem nie kod przeznaczony dla konkretnej platformy, lecz kod niezależny od sprzętu (przynajmniej na ogół), interpretowany przez JVM. Osobliwością Javy jest to, że kod ten podlega interpretacji. Maszyny wirtualne Javy są obecnie standardowym składnikiem m.in. przeglądarek. Zresztą JVM jest nie tylko "wirtualna"; jej kod został zaimplementowany również w obwody scalone.W sieci dostępnych jest wiele opracowań dotyczących Javy; np. tutorial i dokumentacja f-my Sun. Znakiem rozpoznawczym stron poświęconych Javie jest zwykle filiżanka dymiącej kawy.
+
+
+JavaScript 
+Mocno uproszczona wersja języka Java opracowana przez firmy: Netscape i Sun. Język ten przeznaczony jest dla użytkowników pragnących tworzyć własne aplikacje podłączane do stron WWW nie będących programistami. 
+
+
+JPEG
+Joint Photographic Experts Group
+Format zapisu plików graficznych. Idealny do zapisu fotografii, w przeciwieństwie do GIF wykorzystuje algorytmy kompresji zdalnej. 
+
+
+Kanał 
+Strona WWW tak skonfigurowana, aby jej zawartość była ciągle odświeżana, jest wykorzystywany w IRC. Każdy kanał rozpoczyna się od znaku # np. #bialystok.
+
+
+Karta PCI
+Karta rozszerzeń montowana w złączu PCI płyty głównej komputera. Może nią być karta graficzna, dźwiękowa, sieciowa, wideo, telewizyjna, itp.
+
+
+Katalog internetowy 
+Witryna WWW, w której zebrane są  informacje o ciekawych lub wartościowych stronach, a której zadaniem jest zorganizowanie części zawartości Sieci w kategorię.
+
+
+Kawiarnia Internetowa
+Miejsce wirtualnych spotkań fanów Internetu, gdzie rzadko serwuje się kawę, częściej piwo. 
+
+
+Kick
+Czyli po prostu wyrzucenie z kanału za niestosowne zachowanie. W odróżnieniu od bana, kick jest nietrwały tzn. gdy ktoś nas wykopie możemy ponownie wejść na dany kanał.
+
+
+Klient
+Terminal, komputer użytkownika końcowego. 
+
+Kbps
+1024 bps. 
+
+Klient - serwer
+Architektura systemu komputerowego pozwalająca ubogiemu terminalowi korzystać z dużych mocy obliczeniowych innych silniejszych komputerów w sieci. Klient z reguły odpowiada za podstawową obsługę interfejsu użytkownika, natomiast funkcje serwera, w zależności od potrzeb, mogą być różne (komunikacja, obsługa adresów i nazw, drukowanie, obsługa baz danych, składowanie bardzo dużych plików itd.). 
+
+
+Klient FTP 
+Program pozwalający użytkownikowi na korzystanie z zasobów serwera FTP lub umieszczanie na nim zasobów użytkownika. 
+
+Klucz szyfrowy
+Niejawny blok ciągu bitów, zwykle o ustalonej długości - od 56 bitów (standard DES) do 512 bitów (algorytm RSA), stosowany w kryptografii do szyfrowania danych. 
+
+Komputer główny
+Inaczej Host.
+Każdy komputer (lub grupa komputerów) bezpośrednio podłączony do Internetu, udostępniający swoje usługi i zasoby użytkownikom sieci
+
+
+Konto
+Każdy sieciowy system operacyjny pozwala na zakładanie kont użytkownikom. Na definicje konta składa się nazwa użytkownika, hasło, dane o użytkowniku i jego prawa dostępu. Użytkownik nie posiadający konta w danym systemie nie może się do niego dostać, chyba, że korzysta z usługi FTP i przewidziano anonimowego użytkownika.
+
+
+Kryptografia 
+Sposób transformacji danych do postaci niejawnej. Nieznajomość klucza szyfrującego (lub deszyfrującego) uniemożliwia ich odczytanie. 
+
+
+Kształcenie na odległość 
+Forma kształcenia umożliwiająca kierowanie treści dydaktycznych do rozproszonych grup uczniów. W przypadku wykorzystania Internetu oraz systemów LMS możliwa jest organizacja oraz kontrola procesu dydaktycznego przez nauczyciela ; do kontaktu ze studentem wykorzystuje się technikę. Niesłusznie utożsamiane z edukacją niestacjonarną Edukacja otwarta eliminuje większość formalnych barier ograniczających dostępność do wiedzy i kładzie nacisk na potrzeby uczącego się. Proces nauczania w takim trybie jest aktywny , nastawiony na uczestnictwo i inwencję ucznia (studenta). Nauczanie skierowane na odbiorcę daje możliwość uczenia się samodzielnego, w dogodnym miejscu i czasie oraz samodzielnego kontrolowania przyswojonej wiedzy.
+
+
+Kształcenie otwarte
+Jest nowoczesnym systemem edukacji, który nie uwzględnia żadnych barier formalnych. Charakteryzuje się elastyczną formą kształcenia, które daje możliwość określenia przez uczniów (studentów) programu studiów oraz swobodnym zastosowaniem różnorodnych metod prowadzących do skutecznego zdobywania wiedzy i umiejętności pod opieką nauczyciela. Ten rodzaj kształcenia obejmuje zarówno osiąganie poszczególnych stopni wykształcenia (w celu zdobycia dyplomu magisterskiego, doktorskiego), jak i krótkie kursy (zdobywanie nowych umiejętności, dokształcanie). System uzyskiwania dyplomów jest w kształceniu otwartym oparty na systemie punktowym (tzw. kredytów). Jeden kredyt odpowiada przedmiotowi realizowanemu w ciągu roku. 
+
+
+Kształcenie ustawiczne
+Tym mianem określa się stałe rozszerzanie wiedzy i umiejętności niezależnie od zastosowanej metody. Ma najczęściej zastosowanie do różnych kursów doskonalących organizowanych dla osób dorosłych.
+
+
+Kurs 
+Treść dydaktyczna reprezentowana w postaci multimedialnej gotowa do publikowania w systemie zdalnego kształcenia LMS oraz zgodna ze standardem SCORM. 
+
+
+Kurs adaptacyjny
+Kurs w postaci tradycyjnej, który może zostać przeniesiony na platformę Edustrada oraz dostosowany do indywidualnych potrzeb Klienta. 
+
+
+Lag
+Opóźnienie na łączach. Czas, jaki upłynął między wysłaniem pakietu informacji a jego odebraniem.
+
+
+Lamer
+Pogardliwe określenie osoby, która się na niczym nie zna. Człowiek nie tylko nie posiadający nawet podstawowych informacji o komputerach, IRCu lecz również usilnie utrzymujący, że takowe ma, dokuczający i przeszkadzający innym użytkownikom bez wyraźnej przyczyny. Słowem - czarna owca IRCa.  
+
+
+LAN (Local Area Networks) 
+Sieci lokalne, pokrywają małe obszary (pojedyncze budynki lub kompleksy budynków), charakteryzują się dużymi prędkościami i małymi opóźnieniami transmisji. 
+
+
+Light Mode - wersja darmowa oprogramowania, bez banera lecz z ograniczoną liczbą opcji 
+
+
+Linia dzierżawiona (ang. leased line) 
+Stałe połączenie telekomunikacyjne pomiędzy dwoma odległymi punktami. Linia taka może mieć różną przepustowość i w zależności od niej cenę. Cena zależy również od długości takiej linii, natomiast nie ma znaczenia liczba przesłanych danych.
+
+
+Link (Łącze)
+Miejsce, którego kliknięcie spowoduje otworzenie w przeglądarce innej strony lub połączy się z innym serwerem WWW. Jest to wyróżniony obszar, umożliwaijący "przeskoczenie" także do innych dokumentów zawierających powiązane informacje.
+
+
+Linux 
+Bezpłatny, bazujący na Uniksie, system operacyjny opracowany w 1992 roku przez fińskiego studenta Linusa Torvaldsa. Obecnie najpoważniejszy konkurent systemów z rodziny Windows.
+
+
+Listy dyskusyjne
+Coraz bardziej powszechny sposób prowadzenia publicznych rozmów w internecie. Istnieją dwa rodzaje list dyskusyjnych, tzw. Usenet News oraz listy pocztowe. Listy pocztowe działają tak, że osoba, która chce brać udział w dyskusji zapisuje się do listy wysyłając zgłoszenie pod pewien adres i otrzymuje wszystkie teksty przysłane na listę. Jej odpowiedzi są odsyłane do wszystkich uczestników listy. Do list typu Usenet podłączamy się korzystając ze specjalnego programu klienta (newsreadera).
+
+
+LMS (ang. Learning Managment System) 
+System informatyczny wykorzystywany do realizowania kształcenia przez odległość przy pomocy Internetu. Umożliwia przechowywanie, zarządzanie i publikowanie treści dydaktycznej w postaci multimedialnych kursów, organizowanie procesu dydaktycznego, kontrolowanie postępów ucznia, zapisywanie i kontrolowanie dostępu do kursów oraz raportowanie. Pozwala na realizowanie szkoleń w trybie on-line w trybach synchronicznym, asynchronicznym oraz w formie samokształcenia. 
+
+
+Login - (logowanie)
+Termin ten ma wiele znaczeń i może oznaczać: nazwę konta, jest to polecenie używane w komputerach pracujących w systemie UNIX, służące do zalogowania się w systemie, jest to czasownik, oznaczający dołączenie się do komputera. Łącza Można je podzielić na analogowe, utworzone z drutu miedzianego, cyfrowe, oparte o światłowody, komutowane (dial up), czyli dodzwaniane, dzierżawione - podłączone na stałe 
+
+
+Logowanie (ang. login, logon) 
+Wejście do sieciowego systemu operacyjnego. Logowanie zazwyczaj polega na podaniu nazwy użytkownika i hasła celem identyfikacji. Hasło powinno być tajne, natomiast nazwa użytkownika może być powszechnie znana.
+
+
+Łącza  
+Można je podzielić na analogowe, utworzone z drutu miedzianego, cyfrowe, oparte o światłowody, komutowane (dial up), czyli dodzwaniane, dzierżawione - podłączone na stałe.
+
+
+MAN (ang. Metropolitan Area Network)
+Specjalny rodzaj sieci, tworzony na terenie większych ośrodków miejskich (np. w Warszawie - WARMAN, w Poznaniu - POZMAN itd.) o zasięgu do 100 km. Tworzą one podstawową strukturę połączeń na terenie danego miasta, która opiera się na bazie bardzo szybkich połączeń cyfrowych, FDDI, ISDN, ATM itp. Mbps 1024 kbps. 
+
+
+
+
+Marquee
+Specjalna animacja, wprowadzona przez Microsoft do języka HTML i interpretowana jedynie przez Microsoft Internet Explorer 2.0. Polecenie Marquee, wraz z parametrami, pozwala wprowadzać do dokumentu "pływający" w poprzek ekranu tekst.
+
+
+MCU (ang. Multipoint Conference Unit) 
+Urządzenie (lub oprogramowanie) umożliwiające łączenie w ramach jednej sesji wideokonferencji więcej niż 2 lokalizacji. Współczesne serwery potrafią obsługiwać jednocześnie połączenia w sieciach ISDN i IP, liczba lokalizacji mogących uczestniczyć w sesji jest zaś praktycznie nieograniczona dzięki funkcji kaskadowania serwerów.
+
+
+MIDI (Musical Instruments Digital Interface)
+Jest to standard wymiany cyfrowych plików dźwiękowych. 
+
+
+MIME - (Multimedia Internet Mail Extensions) 
+Algorytm przetwarzania na 7-bitowe kody ASCII informacji graficznych, dźwiękowych i wideo. Umożliwia to przekaz tego rodzaju informacji zwykłą pocztą elektroniczną. 
+
+
+Mirror site
+Serwer FTP o zawartości identycznej (na bieżąco uaktualnianej) z zawartością innego, popularnego serwera FTP. Adres w Internecie zawierający kopię zasobów z innych miejsc sieci, na ogół trudniej dostępnych, ze względu na dużą liczbę zgłoszeń. Często terminem mirror określa się także także bliĽniaczy dysk. W wypadku, gdy mamy nie tylko dwa identyczne (logicznie) dyski ale i oddzielne kontrolery, zamiast o technice mirroringu dysków mówimy o duplexingu. 
+
+
+Modem (ang. MOdulator/DEModulator)
+Urządzenie pozwalające na transmisje danych z komputera poprzez linie telefoniczną do drugiego modemu. Modem może być urządzeniem wewnętrznym (w postaci karty) lub zewnętrznym podłączanym kablem do interfejsu w komputerze.
+
+
+Moderator 
+Osoba moderująca (nadzorująca) wypowiedzi użytkowników listy dyskusyjnej. Moderator ma szerokie uprawnienia do zmian, a nawet usuwania zawartości poczty elektronicznej, kierowanej do subskrybentów. 
+
+
+Mosaic 
+Nazwa jednej z przeglądarek WWW przeznaczonej dla środowiska MS Windows. 
+
+
+Mostek wideokonferencyjny zob. MCU
+
+
+MP3 
+(MPEG Layer 3) format plików dĽwiękowych, MPEG (Motion Picture Experts Group) stosuje jako standard tę technikę kompresji, nazywaną bardziej oficjalnie MP3-1 Audio Layer 3. Sama technika, pozwalajaca na ok. 10-krotne zmniejszenie rozmiaru pliku została opracowana w Instytucie Fraunhofera w r. 1991.
+
+
+MPEG (Motion Picture Experts Group) 
+Zespół powołany w ramach International Standard Organization i International Electrotechnical Commision, także standard kompresji obrazów wideo (standard MPEG-1) i przekazów telewizyjnych kodowanych (standard MPEG-2). 
+
+
+Mesg (skrót od message ang. wiadomość) 
+Jest to tekst przeznaczony tylko dla jednej osoby i tylko ta go zobaczy której go wyślemy. 
+
+
+MUD (Multiple User Dimension, Multiple User Dungeon)
+Jest interaktywnym środowiskiem dla wielu osób (np. graczy). Swoimi zasadami przypomina (Internet Relay Chat), w którym określono reguły gry. W grze MUD stajesz się bohaterem pewnej historii i współdziałasz wraz z innymi osobami grającymi w tej samej chwili. 
+
+
+Multimedia
+Łączenie wielu różnych mediów : tekstu, obrazów, dźwięku, wideo czy animacji.
+
+
+Multimedialne Pomoce Dydaktyczne
+Ze względu na dużą samodzielność uczniów (studentów) i ograniczone osobiste kontakty z opiekunem w Edukacji Niestacjonarnej istotną rolę odgrywają pomoce dydaktyczne. Dlatego przygotowanie materiałów dydaktycznych i wybór odpowiedniego nośnika informacji musi być niezwykle staranny poprzedzony głęboką analizą zarówno funkcji dydaktycznej projektowanych materiałów jak i aspektów ekonomicznych związanych z wyborem nośnika informacji oraz organizacyjnej formuły kursu. Proces opracowania dobrego zestawu materiałów multimedialnych dla kursu (przedmiotu lub ich grupy) jest długotrwały (rok do dwóch lat) i kosztowny (nawet kilkaset tysięcy złotych), dlatego w krajach od dawna stosujących opisane wyżej techniki nauczania wykształciły się specjalne i wieloetapowe procedury ich opracowywania.
+
+
+MySQL 
+Najpopularniejszy serwer bazodanowy, wyprodukowany przez firmę T.c.X DattaKonsultAB. Udostępniany wraz z kodem źródłowym, na zasadach określonych w licencji GNU.
+
+
+NASK - Naukowa i Akademicka Sieć Komputerowa 
+Dostarczyciel usług internetowych w Polsce. NASK obsługuje głównie polskie środowiska instytutów naukowych i wyższych uczelni. 
+
+
+Nauczanie asynchroniczne
+Jest to taki rodzaj nauczania, w ramach którego uczniowie i nauczyciel nie muszą jednocześnie być w tym samym miejscu i czasie w procesie edukacyjnym. 
+
+
+Nauczanie elastyczne 
+Jest skrajnym wariantem nauczania otwartego. Jest to system bardzo zindywidualizowany, w którym uczeń (student) wspomagany przez opiekuna decyduje o sposobie i tempie przyswajania wiedzy, a często również o programie kształcenia i kolejności uczenia się poszczególnych przedmiotów.
+
+
+Nauczanie otwarte zob. kształcenie otwarte. 
+
+
+Nauczanie synchroniczne
+Jest to taki rodzaj nauczania, w ramach którego uczniowie i nauczyciel muszą być w tym samym miejscu i czasie (tradycyjne nauczanie) lub w różnych miejscach w tym samym czasie. Przeciwieństwem takiego nauczania jest nauczanie asynchroniczne, które nie wymaga obecności uczniów i nauczyciela w tym samym miejscu i czasie w procesie edukacyjnym. 
+
+
+Net
+Sieć - luźne połączenie wszystkich lub prawie wszystkich komputerów. Wykorzystywany do określenia sieci tworzących Internet.
+
+
+Netcasting (push)
+Ciągłe dostarczanie informacji subskrybującym ją odbiorcom
+
+
+Netscape 
+Nazwa jednej z najpopularniejszych obecnie przeglądarek WWW, przeznaczonej dla środowiska MS Windows. 
+
+
+Newsletter 
+Elektroniczny biuletyn informacyjny dystrybuowany przez firmę drogą e-mail do jego subskrybentów.
+
+
+NT (Windows NT) 
+Jest to 32-bitowy, graficzny, wielozadaniowy i wieloprocesorowy system operacyjny firmy Microsoft, dostępny na rynku w dwóch odmianach Windows NT Server i Windows NT Workstation. 
+
+
+Ochrona antyspamowa
+Jest to usługa polegająca na odrzucaniu korespondencji przychodzącej od znanych spamerów tzn. osób zajmujących się wysyłką materiałów reklamowych. Materiały takie wysyłane są w bardzo dużych ilościach i wystarczająco często aby doprowadzić do "zapchania" skrzynki pocztowej.
+
+
+ODBC (Open Database Connectivity) 
+Jest to norma definiująca specjalny interfejs programowy do wymiany informacji z bazami danych. 
+
+
+Odsyłacz hipertekstowy zob. link
+
+
+Op 
+Operator kanału posiadający uprawnienia do zarządzania nim. Ma prawo wykopać z kanału człowieka nie zachowującego się kulturalnie, może dać komuś innemu opa. Słowem - człowiek na kanale pierwszy po Bogu.
+
+
+Opiekun (ang. Tutor) 
+Każdy ze szczególnych sposobów realizacji edukacji niestacjonarnej wymaga mniej lub bardziej ścisłej współpracy uczącego się z opiekunem przez co znane nam pojęcie nabiera znacznie szerszego niż obecnie znaczenia. Opiekun musi dobrze znać i rozumieć system w którym pracuje (Otwartej Edukacji Niestacjonarnej). Do osiągnięcia pozytywnych efektów w pracy niezbędna jest zdolność komunikacji, wyjątkowa cierpliwość do podopiecznych, dyspozycyjność i spolegliwość. Opiekun powinien być doskonale zaznajomiony z tematyką kursu, który jest przez niego prowadzony lecz nie musi być specjalistą (uczonym) w nauczanej dziedzinie. Jest to specyficzna i nowa funkcja w systemie edukacyjnym. Opiekunowie nie muszą się rekrutować spośród nauczycieli i miejscem ich pracy nie musi być koniecznie instytucja edukacyjna - muszą natomiast być dyspozycyjni.
+
+
+Page
+Strona - jedna ze stron WWW, dokument HTML
+
+
+Paid Mode - wersja płatna oprogramowania, wszystkie opcje dostępne, bez banera reklamowego 
+
+
+Pakiet
+Porcja informacji przesyłanej przez sieć. Każdy pakiet zawiera adres maszyny, do której został skierowany, adres zwrotny i trochę innych danych.
+
+
+Password 
+Hasło, wymagane przez większość systemów, zanim udostępnione zostaną ich zasoby. 
+
+
+PDF 
+Portable Document Format; jeden z najczęściej spotykanych formatów dokumentów w Internecie. Do odczytu można użyć Adobe Acrobat Reader (dostępny pod adresem http://www.adobe.com). Dokument przygotowany w formacie .pdf powinien mieć wygląd niezależny od platformy sprzętowej i środowiska (w praktyce PDF dorównuje pod tym względem TEX-owi). Kolejne wersje PDF, poczynając od 1.3, są coraz lepiej przystosowane do pracy w Internecie. 
+
+
+PERL 
+Practical Report and Extraction Language- interpretowany język programowania, zewnętrznie bardzo podobny do C/C++, dostosowany przez twórcę (Larry Wall, koniec lat 80-tych) przede wszystkim do przetwarzania plików tekstowych. Obecnie (lato 2001) dostępny jest Perl 6 ze znacznie zmienionym w stosunku do poprzedniej wersji kodem źródłowym a także z drobnymi zmianami zewnętrznymi - np. wprowadzono notację kropkową zamiast operatora 'dereferencji' "->", co upodobniło Perl do innych języków zorientowanych obiektowo (z konieczności kropka nie gra dłużej roli operatora konkatenacji). Perl służy do administracji i oprogramowania WWW, w tym do pisania tzw. skryptów cgi, stosowanych z kolei m.in. do opracowania danych wpływających do bazy na serwerze np. jako formularze - por. ankietę na niniejszym serwerze. Trudno uznać Perl za język szczególnie przyjazny; jest jednak tak uniwersalny i przy tym rozpowszechniony, że warto go poznać, pomimo tego, że w ostatnich latach pojawiły się języki pod wieloma względami wydajniejsze (m.in. ASP i php). Perl powstał w środowisku unixowym, jednak niemal od razu został 'portowany' jako ActivePerl również do Win32. Pisany z 'małej litery' perl oznacza zwykle program w języku Perl. 
+
+
+Peer to peer (każdy z każdym)
+Równorzędna komunikacja komputerów poporzez sieć typu każdy z każdym. 
+
+
+Perl
+Interpretowany język skryptowy, służący m. in. do pisania skryptów CGI. 
+
+
+PerlScript 
+Moduł typu ActiveX (silnik skryptowy), umożliwiający wykorzystanie Perla na tzw. ActiveX Scripting Host (jesienią 98' takimi hostami były m. in. IIS3.0/4.0 i IE4.0x). 
+
+
+PHP (ang. Personal Home Page Tools) 
+Język skryptowy służący do tworzenia programów oraz interpreter wykonujący je po stronie serwera (server-side scripting).
+
+
+PINE (Pine Is Not Elm) 
+Popularny program do obsługi poczty elektronicznej w systemie operacyjnym UNIX. 
+
+
+Ping
+Komenda ping pozwala sprawdzić połączenie internetowe poprzez wysłanie kontrolnego pakietu do i ze zdalnego hosta. Przy uzyskanym połączeniu istnieje możliwość pokazywania statystyk transmisji. Packet Internet Groper - protokół sprawdzający, czy wskazany komputer jest dostępny w Internecie, poprzez wysyłanie pakietów pod odpowiedni adres; np.: ping 212.191.70.134 i nasłuchiwanie odpowiedzi (ping-pong). Podobno jednak termin ping nie pochodzi od gry, lecz od nazwy sygnału sonaru na okrętach podwodnych. 
+
+
+Plug-in
+Dosł. wtyczka. Program wspomagający przeglądarkę WWW, rozszerzający jej możliwości. Na przykład plug-in Adobe Acrobat Amber pozwala oglądać z poziomu Netscape Navigatora pliki publikacji elektronicznych Acrobata (PDF), czego nie potrafi zrobić sam Navigator. Obecnie istnieje już (w końcu marca br.) ok. 40 programów tego typu, głównie współpracujących z Navigatorem. Pojawiają się jednak także "wtyczki" dla Internet Explorera. Plug-iny pozwalają oglądać pliki animacji, wideo, 3D, virtual reality, dokumenty Worda, grafikę wektorową itd., zwalniając z konieczności posiadania oprogramowania natywnego dla danego typu pliku (np. Corela dla plików CMX czy Worda lub Word Viewera dla DOC) i bardzo wzbogacają możliwości przeglądarki. "Wtyczka" albo "wtyczka programowa". Niewielki fragment oprogramowania zwiększający możliwości głównego kodu. Por. zbiór wtyczek pod adresem: http://www.download.com . 
+
+
+Pobieranie np. pliku zob. ściąganie
+
+
+Poczta elektroniczna (e-mail) 
+Usługa oparta na urządzeniach telekomunikacyjnych, elektronicznych i oprogramowaniu, pozwalająca na transmisję plików między komputerami, głównie tekstowych. 
+
+
+Poczta elektroniczna głosowa
+Umożliwia przesyłanie komunikatów głosowych w postaci cyfrowej, jako wcześniej spakowanych plików dźwiękowych lub łączności na bieżąco opartej na zasadzie telefonu. Poczta głosowa wymaga znacznie większych szybkości przesyłania informacji niż poczta zwykła elektroniczna, wykorzystująca tylko tekst. Komputer musi być dodatkowo wyposażony w mikrofon, kartę dźwiękową oraz głośniki. 
+
+
+Poczta elektroniczna multimedialna
+Umożliwia przesyłanie komunikatów (informacji) w postaci multimedialnej, tzn. zawierającej w sobie dźwięk (pojedyncze dźwięki, mowa, muzyka), obraz (zdjęcie, rysunki, wykresy, grafiki) oraz film (sekwencje animacji lub obrazów filmowych). 
+
+
+Podpis elektroniczny
+Informacja stwierdzająca autentyczność dokumentów przesyłanych drogą elektroniczną. Podstawowe aspekty bezpieczeństwa informacji: poufność (confidentiality), nienaruszalność (integrity), zdolność oceny (accountability), dostępność (availlability). 
+
+
+Pogawędki (ang. chat) – w uczeniu na odległość pozwala na rozmowę pomiędzy dwoma studentami lub studentem i nauczycielem. Najnowsze technologie pozwalają na prowadzenie pogawędki nie tylko w trybie tekstowym, lecz także głosem (Voice over IP).
+
+
+Połączenie komutowane
+zwane Dial-up Link, Switched Line - tanie połączenie z Internetem nawiązywane poprzez niededykowaną linię telefoniczną.
+
+
+Połączenie konwencjonalne
+na ogół duży komputer, w którego pamięci trzymane są różne pliki. Można do niego zadzwonić i założyć sobie konto. Wówczas można pisać listy do innych użytkowników, ściągać i wysyłać pliki. Nie ma możliwości połączenia z innym komputerem.
+
+
+Portal
+Witryna internetowa (serwis) zamieszczający informacje z różnych dziedzin. W przeciwieństwie do vortala dostarcza podstawowe informacje z wielu dziedzin wiedzy jednocześnie, jednak kosztem ich szczegółowości. Portale wertykalne - tj. pionowe czyli zagłębiające się szczegółowo w dany temat.
+
+
+Portal wertykalny zob. wortal
+
+
+PostScript
+Opis strony tekstu w specjalnym języku opracowanym przez firmę Adobe. Informuje on drukarkę pracującą w tym standardzie o sposobie narysowania zawartości strony, wydając jej polecenie, np. narysuj linię jednopunktową od punktu X do punktu Y. Pozwala to na bardzo elastyczne zmiany rozmiarów dokumentów i czcionki, gdyż zmiana rozmiarów wymaga jedynie wprowadzenia nowych liczb do opisu strony, resztą zajmuje się PostScript. 
+
+
+PPP 
+Point-to-Point Protocol - protokół służący do nawiązywania łączności z Internetem przy użyciu modemu . 
+
+
+Protokół 
+Standard komunikacji obowiązujący w sieci komputerowej. 
+
+
+Protokół PPP (Point-to-Point Protocol)
+Najpopularniejszy sposób połączenia z Internetem. Dzięki niemu komputer staje się, na czas połączenia, pełnoprawną końcówką Internetu, kabel telefoniczny doń prowadzący internetowym łączem. Taki sposób połączenia umożliwia bezpośrednie uruchamianie różnych aplikacji umożliwiających korzystanie z usług internetowych. 
+
+
+Protokół PPTP (Point-to-Point Tuneling Protocol)
+Niedawno udostępniony przez firmę Microsoft protokół komunikacyjny, który umożliwia zestawianie w pełni bezpiecznych, wykorzystujących do łączności publiczne sieci transmisji danych (np. Internet), wirtualnych połączeń z siecią korporacyjną. 
+
+
+Protokół SLIP (Serial Line Internet Protocol)
+Protokól ten jest starszy i o wiele uboższy niż protokól PPP. Znakomicie nadaje się jednak do komunikacji za pośrednictwem wolniejszych modemów, np. 9600 bps. 
+
+
+Provider (Internet provider - dostawca) 
+Dostawca usług internetowych, sprzedający dostęp do sieci dla użytkowników końcowych, zobacz Internet Service Provider. 
+
+
+Proxy 
+Serwer pośredniczący, albo serwer proxy (zastępca, pełnomocnik)pozwala poprzez sieć lokalną udostępnić Internet wielu komputerom za pośrednictwem jednego połączenia. 
+
+
+Przeglądarka WWW (ang. browser)
+Program pozwalający przeglądać strony w World Wide Web, w trybie tekstowym lub graficznym. Najpopularniejszym programem jest obecnie Netscape Navigator. Przeglądarki różnią się zakresem interpretowanych znaczników języka HTML i szeregiem dodatkowym możliwości - obsługa dodatkowych aplikacji, nawigacja, konfigurowanie itp.
+
+
+Przeglądarka grupowa (ang. Group Browsing) 
+Pozwala na jednoczesne przeglądanie przez całą grupę zawartości stron. Praca ta jest kierowana przez prowadzącego kurs. Narzędzie umożliwia interakcje między prowadzącym a uczestnikami oraz w grupie uczestników.
+
+
+Przekierowanie
+Jest to usługa polegająca na przesyłaniu całej przychodzącej na daną skrzynkę pocztową korespondencji pod inny adres.
+
+
+Przeładowanie strony
+Odświeżanie strony (ang. refresh). Często można to zrobić klawiszem funkcyjnym F5.
+
+
+Przestrzeń wirtualna (ang. Virtual space) 
+Kawiarenki służące do wspólnych dyskusji studentów.
+
+
+Przystań internetowa 
+Odmiana portalu, która według jej twórców oferuje dostęp do informacji własnych lub przetworzonych, a nie odsyła użytkowników do innych miejsc; służy nie tyle pracy, co rozwijaniu zainteresowań i rozrywce. To źródło informacji i miejsce spotkań.
+
+
+PSTN (Public Switched Telephone Network) 
+Najstarsza, nadal funkcjonująca sieć telekomunikacyjna o charakterze publicznym. 
+
+
+Public domain
+Bezpłatne oprogramowanie. Można je wykorzystywać i kopiować bez żadnych opłat. Często autor, oprócz samego programu, dołącza również jego kod źródłowy. Status public domain nie wymaga zachowania praw autorskich. 
+
+
+Ramka (ang. frame)
+Specjalny element dokumentu internetowego, wprowadzony w ramach Netscape Extensions i interpretowany jedynie przez Netscape Navigatora (wiadomo też, że będą one widoczne w Internet Explorerze 3.0). Użycie ramek pozwala dzielić ekran dokumentu na kilka odrębnych okienek, zwykle powiązanych ze sobą odsyłaczami, co ułatwia nawigowanie w skomplikowanych konstrukcyjnie dokumentach. Przykładem użycia ramek jest niniejszy kurs - stale widoczna ramka ze spisem treści pozwala szybko sięgać do różnych stron całego kursu, wprowadzanych za pomocą odsyłaczy do drugiej ramki. Użycie ramek nie pozbawia użytkowników innych przeglądarek możliwości czytania dokumentu, dzięki konstrukcji NOFRAMES, która zawiera "lustrzane" odbicie treści ramek.
+
+
+Retakeover
+Odbicie przejętego wcześniej kanału (patrz takeover). 
+
+
+Router
+Urządzenie działające w warstwie sieciowej modelu ISO/OSI. Pozwala na kierowanie pakietów zgodnie z zawartą w nich informacją adresową. Urządzenie stosuje się do łączenia sieci LAN i sieci rozległych. Inaczej urządzenie, które funkcjonuje tak jak mostek, ale obsługuje odmienne protokoły.
+
+
+RSA (Rivest, Shamir, Adelman) 
+Algorytm kryptografii asymetrycznej opracowany w 1978 r. przez trzech naukowców (Rivest, Shamir, Adelman). Jest stosowany w tzw. systemach klucza publicznego (public key cryptosystem). 
+
+
+Ruter (ang. router)
+Urządzenie komunikacyjne, sprzęgające sieci cyfrowe, dysponujący informacją o trasach miejsc przeznaczenia. Funkcje routera mogą spełniać serwery wyposażone w odpowiednie oprogramowanie. 
+
+
+Samokształcenie 
+Rodzaj szkolenia realizowanego przy pomocy systemu do kształcenia zdalnego zakładający całkowity brak kontaktu ucznia z nauczycielem i innymi uczniami. Celem systemu jest udostępnienie uporządkowanej wiedzy zorganizowanej w postaci kursu dostępnego przez browser WWW oraz dostarczenie mechanizmów do jej samodzielnego sprawdzenia (samokontrola dzięki self-testom). Nauka prowadzona w tempie wybranym przez uczącego się (brak ograniczeń czasowych), bądź z ograniczeniami (czasowymi i logicznymi np. lekcja zostanie zaliczona dopiero po zdaniu testu) narzuconymi i kontrolowanymi przez system. Zakłada się, że szkolenie tego typu kończy się sprawdzeniem wiadomości w oparciu o egzamin przeprowadzony i następnie automatycznie sprawdzony przez system. Po zakończeniu szkolenie istnieje możliwość automatycznego wystawienia dyplomu. 
+
+
+SCORM (ang. Sharable Content Object Reference Model) 
+Otwarty standard reprezentacji zawartości dydaktycznej opracowany przez ADL (Advanced Distributed Learning). Standard zapewniający przenaszalności zawartości dydaktycznej pomiędzy systemami różnych producentów oraz gwarantujący wielokrotne użycie poszczególnych fragmentów kursu. Korzystanie ze standardu znacząco obniża koszt obsługi kursów. 
+
+
+Serwer
+Dedykowany system komputerowy wydzielony z sieci w celu realizowania usług na rzecz innych. Przykładowo mogą to być usługi typu podawanie plików, obsługa drukarek, archiwizacja danych, translacja protokołów, itp.
+
+
+Serwer FTP 
+Oprogramowanie zarządzające zasobami usługi FTP udostępnianymi zdalnym i lokalnym użytkownikom Internetu. Dostęp do serwera FTP może być zabezpieczony hasłem lub jest wolny. W drugim przypadku hasło dostępu brzmi anonymous, guest itd. 
+
+
+Serwer poczty elektronicznej 
+Serwer służący do wysyłania, odbierania i gromadzenia poczty elektronicznej. 
+
+
+Serwer WWW 
+Serwer, na którym znajdują się strony WWW. 
+
+
+Shareware
+Oprogramowanie, które może być kopiowane wyłącznie w celu wypróbowania programu przez pewien czas, po upływie którego należy zapłacić określoną sumę pieniędzy autorowi lub autorom tego programu. 
+
+
+Shell unixowy
+Interpreter poleceń systemu unix. Po zalogowaniu się do systemu zazwyczaj nasze działania nadzoruje proces shella. W zależności od tego jaki to shell, możemy stosować różne polecenia.
+
+
+Sieci rozległe 
+Geograficznie rozproszone komputery i sieci lokalne łączone ze sobą. Zobacz WAN. 
+
+
+Simlock
+Simlock jest to blokada zakładana przez operatora na telefon komórkowy. W ten sposób uniemożliwia nam korzystanie z kart SIM innych operatorów. 
+
+
+Site
+Witryna - położono w internecie, czasem zbiór powiązanych ze sobą stron WWW
+
+
+Sklep internetowy (wirtualny sklep) 
+Określony adres w sieci WWW, który odnosi się do specjalnie przygotowanej strony (całego ośrodka). Firma umieszcza tam wykazy produktów, jakie oferuje wraz z ich prezentacją oraz cennikiem. Znajduje się tam także formularz zamówień, który trzeba wypełnić, gdy chce się coś kupić.
+
+
+Skrypt 
+Zestaw poleceń przeznaczonych dla programu użytkowego lub narzędziowego. Skryptem, albo językiem skryptowym często nazywa się również język interpretowany. 
+
+
+Skrypt logowania (ang. login script)
+Automatyczna procedura wykonująca uruchamiana podczas logowania się użytkownika do sieci.
+
+
+SLIP (ang. Serial Line Interface Protocol)
+Protokół transmisji poprzez łącze szeregowe. Protokół uzupełnia TCP/IP tak, aby można było przesyłać dane poprzez łącza szeregowe.
+
+
+SMS 
+SMS czyli Short Meassage Service (pol. krótkie wiadomości tekstowe) to usługa dostępna we wszystkich współczesnych telefonach komórkowych. Polega ona na tym, że ze swojego telefonu możemy wysłać wiadomość w postaci tekstu na inny telefon komórkowy, obecnie również e-mail do Internetu. Wiadomość ta nie może mieć jednak więcej niż 160 znaków.
+
+
+Sniffing
+Instalowanie programów przechwytujących dane.
+
+
+Spam
+Rozsyłanie korespondencji "niechcianej", łańcuszków szczęścia, innymi słowy śmieci
+
+
+Spamming
+Zarzucanie wybranej ofiary ogromną ilością listów elektronicznych.
+
+
+Sponsored Mode - program darmowy, w pełni funkcjonalny z banerem reklamowym 
+
+
+Spoofing
+Podszywanie się pod czyjś adres.
+
+
+SSL (ang. Secure Sockets Layer)
+Technologia SSL służy do ochrony transakcji poprzez umożliwienie bezpiecznego komunikowania się i prowadzenia handlu elektronicznego w Internecie.
+
+
+Strona początkowa (ang. home page)
+Strona automatycznie wczytywana po uruchomieniu przeglądarki WWW. Netscape Navigator pozwala ustalić stronę początkową (home page), ale jednocześnie uruchamiać przeglądarkę z pustą stroną, bez konieczności łączenia się z siecią. Jest to wygodne np. wtedy, gdy sami konstruujemy dokument internetowy i kontrolujemy jego wygląd w pracującej w tle przeglądarce.
+
+
+Strona WWW (ang. Web page)
+Dokument zapisany w formacie HTML, dostępny do powszechnego użytku w sieci Internet poprzez przeglądarki WWW.
+
+
+Surfing
+Pływanie po stronach WWW, czyli poruszanie się po sieci
+
+
+Sygnatura (ang. signature) 
+Krótki tekst promocyjny, oraz informacje kontaktowe zawarte w stopce listu e-mail.
+
+
+Szkolenie asynchroniczne 
+Rodzaj szkolenia realizowanego przy pomocy systemu do kształcenia zdalnego zakładający brak bezpośredniego kontaktu ucznia z nauczycielem oraz innymi uczniami podczas przyswajania poszczególnych partii materiału dydaktycznego. Celem systemu jest udostępnienie uporządkowanej wiedzy zorganizowanej w postaci kursu dostępnego przez browser WWW oraz dostarczenie mechanizmów do jej weryfikacji. Weryfikacja wiedzy realizowana jest w oparciu o testy sprawdzane automatycznie przez system, jak również testy oraz prace domowe sprawdzane przez nauczyciela. Dostępny jest mechanizm self-testów w celu samodzielnego sprawdzenia wiedzy przez ucznia. Nauka prowadzona jest w tempie kontrolowanym przez uczącego się, ale zgodnie z ograniczeniami narzuconymi przez nauczyciela (plan pracy). Kontakt z nauczycielem (w celach konsultacyjno-organizacyjnych) oraz innymi uczniami (w celach konsultacyjnych) realizowany jest przy pomocy narzędzi komunikacyjnych asynchronicznych (e-mail, forum) oraz w określonych sytuacjach również przy pomocy narzędzi synchronicznych (czat). 
+
+
+Szkolenie off-line
+Szkolenia realizowane w warunkach braku bezpośredniego połączenia z systemem zdalnego kształcenia LMS 
+
+
+Szkolenie on-line 
+Szkolenie w warunkach bezpośredniego połączenia z systemem zdalnego kształcenia LMS 
+
+
+Szkolenie synchroniczne 
+Rodzaj szkolenia realizowanego przy pomocy środowiska do kształcenia zdalnego pozwalające uczestnikom kursu oraz nauczycielowi komunikować się swobodnie, tak jakby siedzieli obok siebie w jednym pomieszczeniu (wirtualna klasa). Szkolenia tego typu zwane są również szkoleniami w czasie rzeczywistym. Prowadzone lekcje mają charakter sformalizowany, kontrolowany przez nauczyciela. Szkolenie synchroniczne może być wspierane kursem dostępnym przez browser WWW. 
+
+
+Sztuczna sieć neuronowa 
+Jako obiekt badań sieci neuronowe stanowią bardzo uproszczony, ale bogaty i ciekawy model rzeczywistego biologicznego systemu nerwowego. Składają się one z połączonych ze sobą obiektów (umownie zwanych neuronami). Istotną cechą sieci takich elementów jest możliwość uczenia się - to jest modyfikowania parametrów charakteryzujących poszczególne neurony w taki sposób, by zwiększyć efektywność sieci przy rozwiązywaniu zadań określonego typu.
+
+
+Szyfrowanie danych 
+Jedna z metod zabezpieczania danych przesyłanych przez sieć. 
+
+
+Ściana ogniowa (firewall) 
+Program filtrujący przenoszoną informację, przepuszczający do (i z) Internetu tylko zadeklarowane wiadomości. 
+
+
+Ściąganie
+Przesyłanie pliku ze zdalnej witryny do twego komputera. Czynność przeciwna to ładowanie, tzn. przesyłanie pliku z własnego komputera na zdalny komputer.
+
+
+Śmieszek (smiler, smiley) 
+Pomysłowy sposób umieszczania rysunków twarzy w listach poczty elektronicznej za pomocą takich znaków jak :-), :->, :-( itd. - widoczne po obróceniu o kąt 90o. W zależności od kontekstu śmieszek może wyrażać w liście różnorakie komentarze o uczuciach nadawcy. 
+
+
+Światłowód
+Medium transmisyjne, zbudowane z czystego włókna kwarcowego wykonanego z dwutlenku krzemu, służące do przesyłania informacji za pomoca światła. 
+
+
+Świstak 
+Polska nazwa dla gophera. 
+
+
+Tablica (ang. whiteboard) 
+Okno tekstowe (czasami także graficzne) pozwalające na współdzielenie tekstu widocznego dla wszystkich uczestników kursu lub rysunków podobnie jak to ma miejsce w przypadku tradycyjnej tablicy.
+
+
+Takeover
+Dosłownie przejęcie kanału przez osobę nieuprawnioną. Takeovery mają miejsce zazwyczaj w nocy, kiedy większość operatorów śpi. Wtedy do akcji wchodzą skrypty wojenne oraz boty, które próbują nielegalnie przejąć kontrolę nad określonym kanałem.
+
+
+Targeting 
+Kierowanie reklamy do ściśle określonej grupy odbiorców np. z konkretnej dziedziny.
+
+
+TCP/IP
+Protokół komunikacyjny używany przez wszystkie komputery podłączone do Internetu do rozsyłania pakietów w lokalnych i rozległych sieciach komputerowych. Jest to standardowy protokół, na któeym się opiera Internet.. 
+
+
+Telekomunikacja Polska (TP SA) 
+W chwili obecnej TP SA jest chyba jedynym darmowym (poza kosztami połączenia telefonicznego) dostarczycielem usług internetowych w Polsce. Każdy, kto posiada modem, może dzwoniąc pod ogólnopolski numer 0,202122 uzyskać dostęp do Internetu. W niektórych miastach w Polsce połączenie z tym numerem odbywa się w cenie rozmowy lokalnej. TP SA nie zakłada indywidualnych kont poczty elekronicznej. 
+
+
+Telematyka (telematics) 
+Termin ten został wprowadzony przez International Consultative Committee on Telephony & Telegraphy na określenie nowych funkcji telekomunikacyjnych związanych z dziedziną informatyki. Telematyka to połączenie informacji i technik komunikacyjnych. Dziedzina zajmująca się wykonywaniem prac na odległość metodami telekomunikacyjnymi. W ramach prac Komisji Europejskich aktualnie realizowanych jest szereg prac i projektów w dziedzinie telematyki. Największe z nich dotyczą zastosowań telematycznych w rolnictwie, ochronie środowiska, transporcie, medycynie i edukacji. Wiele prac i projektów realizowanych jest również w ramach edukacji na odległość. Zakres usług telematycznych obejmuje: teleteks - jest to udoskonalona wersja teleksu mającego wszystkie cechy nowoczesnej maszyny do pisania, telefaks - łączność abonencka realizowana w sieci analogowej powszechnego użytku, wideoteks - umożliwia przekazywanie znaków semigraficznych, poczta elektroniczna, poczta głosowa. 
+
+
+Telepraca
+Nowe podejście do formy organizacyjnej pracy, umożliwiające określonym pracownikom wykonywanie obowiązków służbowych poza tradycyjnym miejscem pracy. Komunikacja z miejscem pracy odbywa się za pomocą komunikacyjnych środków przekazu (telefon, telefaks, poczta elektroniczna i głosowa ) oraz zdalnego dostępu do sieci komputerowych (np. telnet dla sieci Internet) lub Remote Access Technology. 
+
+
+TELNET
+Program pozwalający na zdalne logowanie się do innego komputera i emulowanie zawartości jego ekranu tekstowego na ekranie maszyny lokalnej.
+UWAGA: niektóre serwery nie zezwalają na korzystanie z tej usługi.
+
+
+Telnet SSH
+Usługa działa podobnie jak Telnet lecz dzięki szyfrowanej transmisji danych zmniejsza ryzyko przejęcia dostępu do serwera przez osoby niepowołane
+
+
+Traceroute
+Pozwala na sprawdzenie drogi wysyłania pakietów pod określony adres sieci.
+
+
+Teleteaching 
+Metoda nauczania na odległość z wykorzystaniem najnowszych środków telekomunikacyjnych (satelitarnych, ISDN, telewizji satelitarnej). 
+
+
+Telewizja interaktywna IVOD (Interactive Video on Demand) 
+Jedna z usług multimedialnych (wideokonferencja i wideodystrybucja) w środowisku sieciowym. 
+
+
+Terminal wideokonferencyjny 
+Urządzenie wyposażone w akcesoria i umożliwiające przeprowadzanie wideokonferencji. Terminale realizują połączenia zarówno w trybie punkt-punkt, jak i w trybie wielopunktowym. Terminale dzielimy na: grupowe (pokojowe), kompaktowe (set-on box) i osobiste (desktopowe).
+
+
+Token 
+Niewielkie urządzenie elektroniczne otrzymywane przez posiadacza elektronicznego konta w banku, generujące co jakiś czas według algorytmu znanemu tylko serwerowi banku ciąg cyfr. Umożliwia ono identyfikacje klienta w kontaktach z wirtualnym oddziałem banku.
+
+
+Topic
+Jest to dowolny tekst ograniczony do 80 znaków, którego treść jest dowolna. Każdy kanał ma swój topic i może on być związany np. z tematyką kanału lub zupełnie inną sprawą.
+
+
+UMTS 
+System UMTS, inaczej Universal Mobile Telecommunications System, jest siecią komórkową trzeciej generacji (3G). składającą się z dwóch niezależnych podsystemów, połączonych za pomocą standardowego interfejsu lu. Podsystemy te noszą nazwę:
+UMTS Terrestrial Radio Access Network (UTRAN) - naziemna sieć dostępu radiowego złożona z Node B (Węzeł B), który jest odpowiednikiem stacji bazowej sieci GSM (GSM BTS) i kontrolera sieci radiowej RNC (Radio Network Controller), będącym odpowiednikiem kontrolera stacji bazowej sieci GSM (GSM BSC). Core Network - sieć szkieletowa. Odpowiednik GSM i NSS. 
+
+
+Unix
+System operacyjny stosowany dawniej na komputerach typu mainframe, a teraz nawet na personal. Na początku internet bazował na systemach unixowych, ale w chwili obecnej do połączeń można używać nawet PC pracujący w DOS lub Windows czy też Macintosh. System operacyjny UNIX, w odróżnieniu od DOS-a jest: wielozadaniowy - tzn. jeden komputer może wykonywać wiele programów (zwanych procesami) równolegle, czyli w tym samym czasie, wielodostępny, tzn. z jednym komputerem może pracować równolegle wielu użytkowników. Każdy użytkownik w systemie UNIX posiada swój własny, unikatowy, identyfikator (nazwę, login name). Identyfikator ten użytkownik podaje rozpoczynając pracę, czyli logując się na swoje konto w systemie. Ponadto każdy użytkownik zabezpiecza (ze względów bezpieczeństwa) swoje konto hasłem. 
+
+
+UPS (Uninterruptible Power System)
+Zapasowe źródło zasilania, zawierające zestaw akumulatorów, stosowane w chwili zaniku napięcia w sieci zasilającej i podtrzymujące pracę komputera przez pewen czas. Zawiera układy elektroniczne, które są w stanie w czasie krótszym niż 5 ms załączyć rezerwę zasilającą. UPS zabezpiecza nas przed nagłą utratą danych, wynikającą z braku energii w sieci zasilającej. 
+
+
+URL (ang. Uniform Resource Locator)
+Próba standaryzowania formatu zapisu adresów i lokacji w internecie. Najczęściej używany dla opisania stron WWW. Przykładowe URL-e to: ftp://ftp.funet.fi/, http://www.gazeta.pl/, news://news.nask.org.pl/, mailto:esliw@zetobi.com.pl. Jest to jednorodny lokalizator zasobów wskazujący adres miejsca.
+
+
+USB (ang. Universal Serial Bus) 
+Uniwersalna magistrala szeregowa, czyli wspólny interfejs szeregowy dla wielu urządzeń takich jak drukarki, skanery itp. O przepustowości do 12 Mb/s (megabitów na sekundę).
+
+
+Usługodawca internetowy (ang. Internet provider)
+Dostawca usług internetowych. Zazwyczaj firma posiadająca szybkie łącze ze światem i wiele podłączeń telefonicznych. Modemem podłączamy się do takiej firmy i dzięki niej łączymy się z dowolnym miejscem na świecie za cenę połączenia lokalnego. Usługodawca internetowy zazwyczaj oferuje szeroką gamę usług za które pobiera odpowiednie opłaty.
+
+
+USENET 
+Zbiór publicznych grup dyskusyjnych. Każdy, kto może wysłać listy, może uczestniczyć w tych grupach. Każdy może również wysłać odpowiedź na czyjąś wypowiedź w grupie. Można nawet sugerować utworzenie nowych grup. 
+
+
+Veronica (Very Easy Rodent - Oriented Netwide Index to Computerized Archives) 
+Program narzędziowy UNIX używany do przeszukiwania tytułów menu gopher w przestrzeni gopher. 
+
+
+Vortal (ang. vertical industry portal)
+Witryna internetowa (serwis), w którym struktura informacji jest tu nieco inna niż w tradycyjnym portalu. Vortal zamieszcza informacje na jakis określony temat, od ogólników do szczegółu.
+
+
+VRML (Virtual Reality Modelling Language) 
+Język służący do opisu obiektów trójwymiarowych, zawierający połączenia. Wymaga dużej mocy obliczeniowej w postaci specjalistycznego sprzętu do interpretacji animowanej sceny. 
+
+
+WAIS (Wide Are Information Server) 
+Rozproszony system pomocny przy przeszukiwaniu baz danych. Bazy danych, zawierające dużo różnych informacji, organizowane są na wiele sposobów. Użytkownik WAIS nie musi uczyć się wielu języków do przeszukiwań różnych typów baz danych. WAIS używa naturalnego języka pytań do poszukiwania różnych dokumentów. Wynikiem każdego zapytania jest zestaw dokumentów zawierających podane słowo, które można przejrzeć. 
+
+
+WAN (ang. Wide Area Network)
+Fizyczna sieć komunikacyjna rozległa rozpostarta na dużym obszarze.
+
+
+WAP 
+Wireless Application Protocol - protokół bezprzewodowego dostępu do informacji i urządzeń (np. Internetu), opracowany przez WAP Forum http://www.wapforum.org/. Dostępny dla telefonów z usługą WAP - takie telefony ma wg. f-my Forrester w roku 2004 posiadać 219 milionów użytkowników w Europie, czyli 1/3 populacji. W USA procent użytkowników WAP wśród jednokomórkowców ma wzrosnąć w ciągu 12 miesięcy z 3% do 78% (Cap Gemini America and Corechange Inc Boston). Przy pomocy usługi WAP można będzie nie tylko sprawdzać godziny odjazdu pociągu relacji Łódź-Gdynia (odwołany) ale także odsłuchać reklamówkę nowego albumu M.Fogga i wysłać kolorową e-pocztówkę do kuzyna w Gołdapi. Jednym z ograniczeń WAP jest pojemność zwykłej kieszeni - ani ekran ani klawiatura nie mogą być zbyt duże, choć w zasadzie można skonstruować ekran 'rozkładany'. Również pojemność pamięci telefonów WAP może ulec zwiększeniu. Szybszą komunikację mają z kolei zapewnić nowe technologie sieciowe - HSCD (high speed circuit switch data) i GPRS ( General Packet Radio Service). Patrz także WAP. 
+
+
+Webmaster 
+Osoba opiekująca się serwerem WWW oraz osoba znająca język HTML i zajmująca się tworzeniem stron WWW.
+
+
+Webserver
+Wydzielone oprogramowanie realizujące na serwerze usługi w zakresie przechowywania i udostępniania stron WWW. 
+
+
+Web site 
+Zestaw zasobów WWW udostępniany przez indywidualny adres URL (zazwyczaj utożsamiany z sewerem WWW). 
+
+
+Webring 
+Katalog skupiający strony (od kilkudziesięciu do kilkuset) o określonej tematyce, różniący się jednak od katalogu tradycyjnego tym, że odwiedzając jedną ze stron należących do danego webringu można z jej poziomu odwiedzić wszystkie pozostałe.
+
+
+Whois 
+Usługa dostarczająca danych na temat ludzi i organizacji podłączonych do sieci. Możliwe są do uzyskania następujące informacje: dla osoby: nazwa i adres instytucji, w której pracuje, nr telefonu i faxu oraz adres e-mail, dla numeru sieci: nazwa instytucji, do której należy dana sieć, nazwa sieci, do której jest ona dołączona oraz nazwiska osób administrujących tą siecią, dla domeny: nazwa i opis instytucji, do której należy dana domena, nazwiska osób administrujących, adresy serwerów obsługujących tę domenę oraz opcjonalnie lista poddomen. 
+Wszystkie serwery whois gromadzą dane w zasadzie na temat organizacji, do której należą. Przy znajdowaniu informacji nie korzystają one z innych serwerów, nie wiedzą również, gdzie można znaleźć informacje o innych instytucjach i organizacjach. 
+
+
+Wideokonferencje (video conferencing)
+Wymiana informacji z wykorzystaniem dwukierunkowej komunikacji dźwiękowej i wizyjnej. Obie strony: nauczyciel i uczniowie widzą się wzajemnie i mogą przesyłać do siebie dokumenty. 
+
+
+Wielodostęp 
+System, w którym wielu użytkowników może pracować jednocześnie i korzystać ze wszystkich jego zasobów. 
+
+
+Wielozadaniowość 
+Cecha systemu polegająca na umożliwieniu każdemu użytkownikowi uruchomienia wielu procesów (programów) jednocześnie. 
+
+
+Windows NT (ang. Windows New Technology) 
+System operacyjny z rodziny Windows, przeznaczony do zaawansowanych zastosowań. Windows NT w wersji 4.0 uznawany jest za stabilny i zapewniający dość wysoki poziom bezpieczeństwa system operacyjny. Z tego powodu wykorzystuje się go w środowiskach sieciowych - m.in. w gospodarce, finansach, zarządzaniu. Następcą Windows NT jest Windows 2000.
+
+
+WinSock
+Standartowy sposób pracy systemu Windows zgodnie z protokołem TCP/IP w przypadku połączenia z Internetem typu SLIP.
+
+
+Workflow (przepływ zadań)
+Metoda określania procedur obiegu i przetwarzania obiegu dokumentów elektronicznych. Oprogramowanie tej metody usprawnia pracę grup roboczych (workgroups). 
+
+
+Workgroups 
+Zespoły użytkowników pracujących wspólnie w sieci komputerowej, współużytkujących w określony sposób pewne zasoby systemu, np. aplikacje, dokumenty czy też pocztę elektroniczną. 
+
+
+Witryna wyszukiwarki
+Strona WWW, która umożliwia przeszukanie zasobów Sieci pasujących do podanego przez użytkownika wzorca.
+
+
+Współdzielenie aplikacji 
+Pozwala nauczycielowi na podgląd i ingerencję w ekran studenta; to samo jest możliwe między studentami. 
+
+
+Wyszukiwarka
+Ogromna baza adresów internetowych, do której użytkownicy mają dostęp za pośrednictwem strony WWW, która umożliwia budowanie zapytań i wyświetlanie ich rezultatów oraz może być wykorzystywany do przeglądania baz danych lub indeksowania witryn WWW
+
+
+WWW (World Wide Web)
+Graficzny system informacyjny oparty na hipertekście (protokół HTTP - HyperText Transfer Protocol), umożliwiającym przemieszczanie się pomiędzy dokumentami, które znajdują się na różnych serwerach WWW na świecie. 
+
+
+Yahoo! (http//www.yahoo.com) 
+Najstarszy i jeden z bardziej popularnych amerykańskich katalogów stron WWW, zawierający różne wiadomości. 
+
+
+Zakładka zob. Bookmark
+
+
+Załącznik
+(ang attachment) plik, który został zakodowany jako tekst w formacie ASCII, a następnie dołączony do listu elektronicznego.
+
+
+Zapora ogniowa (firewall)
+Element ochrony i kontrolny, umieszczany na styku dwóch sieci, aby uniemożliwić niepożądany dostęp do np. lokalnej sieci z zewnątrz sieci. 
+
+
+Zdalny dostęp (Remote Access)
+Możliwość uzyskania dostępu do zasobów sieci, użytkownika nie podłączonego bezpośrednio do tej sieci. Zdalny dostęp jest realizowany poprzez emulację terminala, zdalną kontrolę itd.
